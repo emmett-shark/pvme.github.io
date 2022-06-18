@@ -776,7 +776,7 @@ The following are required or this method will not work:
 
 </div>
 
-<div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
+<div class="embed-footer"><span class="embed-footer">Cutting corners will result in failure
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 

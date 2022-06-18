@@ -142,14 +142,14 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
 ⬥ Some actions can occur in rapid succession which makes his special attack timings relatively unpredictable.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>150k HP</strong>
-</div><div class="embed-field-value markup" >⬥ The Soul Obelisk lowers the player's Constitution level (and therefore their maximum lifepoints) <a href="https://imgur.com/o8hitZZ.png">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Soul Obelisk lowers the player's Constitution level (and therefore their maximum lifepoints) <a title="" href="https://imgur.com/o8hitZZ.png" target="_blank" rel="noreferrer">Example</a>
     • This can cause food to heal less if your level falls below a certain amount.
     • Saradomin Brews <img title="Brew" class="d-emoji" alt="Brew" src="https://cdn.discordapp.com/emojis/565726489400573962.png?v=1"> and Guthix Rests <img title="grest" class="d-emoji" alt="grest" src="https://cdn.discordapp.com/emojis/689530593901412578.png?v=1"> are exempt from this effect.
     • 3 Constitution levels are lost each time the effect triggers.
 ⬥ Can be counteracted by drinking a Super Restore <img title="restore" class="d-emoji" alt="restore" src="https://cdn.discordapp.com/emojis/642708657825644554.png?v=1"> or damaging the obelisk (not recommended).
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>100k HP</strong>
-</div><div class="embed-field-value markup" >⬥ Another soul obelisk spawns to the south, which deals 600 damage and raises the player's corruption level by 4% every 5-7 seconds. <a href="https://imgur.com/D3nIbDG.png">Example</a>
+</div><div class="embed-field-value markup" >⬥ Another soul obelisk spawns to the south, which deals 600 damage and raises the player's corruption level by 4% every 5-7 seconds. <a title="" href="https://imgur.com/D3nIbDG.png" target="_blank" rel="noreferrer">Example</a>
     • Corruption causes the player's damage dealt and taken to increase by the same percentage.
     • Caps at 50%, and resets down to 25% after every kill.
 ​
@@ -158,14 +158,14 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
     • Increases his damage output while losing some defence.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Resonance</strong>
-</div><div class="embed-field-value markup" >⬥ Magister will heal for the damage you would have dealt. <a href="https://imgur.com/HcUrNlA.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Magister will heal for the damage you would have dealt. <a title="" href="https://imgur.com/HcUrNlA.mp4" target="_blank" rel="noreferrer">Example</a>
     • It is best to use a bleed or a weak ability to minimise his healing.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Freedom</strong>
-</div><div class="embed-field-value markup" >⬥ Magister cannot freedom while stunned, he will only freedom when he is bound. Should you bind him before or during a bleed, he can clear it. <a href="https://imgur.com/GkerL8m.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Magister cannot freedom while stunned, he will only freedom when he is bound. Should you bind him before or during a bleed, he can clear it. <a title="" href="https://imgur.com/GkerL8m.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Siphon</strong>
-</div><div class="embed-field-value markup" >⬥ When the player is at 70%+ adrenaline, the Magister can drain some of their adrenaline. <a href="https://imgur.com/8h2rcWI.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ When the player is at 70%+ adrenaline, the Magister can drain some of their adrenaline. <a title="" href="https://imgur.com/8h2rcWI.mp4" target="_blank" rel="noreferrer">Example</a>
     • Aim to stay below 70% adrenaline during ultimates.
     • Be wary of adrenaline drain prior to ultimates.
 
@@ -209,14 +209,14 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Power Blast</strong>
-</div><div class="embed-field-value markup" >⬥ The Magister slams his staff into the ground, sending out a red lightning attack. <a href="https://imgur.com/S1fJmLr.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Magister slams his staff into the ground, sending out a red lightning attack. <a title="" href="https://imgur.com/S1fJmLr.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ Deals ~2300 ranged damage (100% accurate) and can be dealt with by:
     • Deflect Missiles <img title="DeflectRange" class="d-emoji" alt="DeflectRange" src="https://cdn.discordapp.com/emojis/544195488317046812.png?v=1"> / Disruption Shield <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1">
     • Resonance <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Barge</strong>
 </div><div class="embed-field-value markup" >⬥ Signaled by the voice line <strong>'You dare fight me?''</strong>
-⬥ After a 1.8s delay, the Magister will barge to 1 sq south of player. <a href="https://imgur.com/ier7amn.mp4">Example</a>
+⬥ After a 1.8s delay, the Magister will barge to 1 sq south of player. <a title="" href="https://imgur.com/ier7amn.mp4" target="_blank" rel="noreferrer">Example</a>
     • Deals ~2300 melee damage in a 5x5 area and disables protection prayers for a small duration.
     • Walk one tile north to avoid this.
     • Alternatively use <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> / <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> , then move a tile away to avoid being md.
@@ -235,23 +235,23 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
 ⬥ The Magister can chain these previous 3 actions together.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Unstable Mixture</strong>
-</div><div class="embed-field-value markup" >⬥ A bomb is thrown in the general vicinity of the player. <a href="https://imgur.com/EqOep9I.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ A bomb is thrown in the general vicinity of the player. <a title="" href="https://imgur.com/EqOep9I.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ It explodes after the bar above it fills, dealing typeless damage in a 5x5 area to whatever is near it.
     • Deals 4000 damage to the player and the Magister and 2000 damage to the player's familiar.
     • Can be clicked to kick away.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Asphyxiate</strong>
-</div><div class="embed-field-value markup" >⬥ The Magister will asphyxiate the player, dealing ~1500-3000 damage for 3 hits and healing off the base damage. <a href="https://imgur.com/WTSVZKC.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Magister will asphyxiate the player, dealing ~1500-3000 damage for 3 hits and healing off the base damage. <a title="" href="https://imgur.com/WTSVZKC.mp4" target="_blank" rel="noreferrer">Example</a>
     • This ability does not stun and can be dealt with by moving or by using a melee threshold.
     • The Magister will continue auto attacking mid asphyxiate if stunned.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Restore Me</strong>
-</div><div class="embed-field-value markup" >⬥ The Magister will regain several thousand lifepoints. <a href="https://imgur.com/3siuSRJ.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Magister will regain several thousand lifepoints. <a title="" href="https://imgur.com/3siuSRJ.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ More likely to use this after falling below 50k lifepoints and it is often the first special attack he will use at that point.
     • Can be avoided by stun-locking him, dealing damage and killing him before he can spec.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Minions</strong>
-</div><div class="embed-field-value markup" >⬥ Only happens once the Magister has performed a sufficient number of special attacks beforehand. <a href="https://imgur.com/4rbODea.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Only happens once the Magister has performed a sufficient number of special attacks beforehand. <a title="" href="https://imgur.com/4rbODea.mp4" target="_blank" rel="noreferrer">Example</a>
     • Two Soul Devourer minions spawn using random combat styles.
     • They have 10,000 HP and remain until either they die or the fight ends.
     • It is recommended to kill them unless the fight is at least halfway over.
@@ -409,7 +409,7 @@ The following are required or this method will not work:
 
 </div>
 
-<div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
+<div class="embed-footer"><span class="embed-footer">Cutting corners will result in failure
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 
@@ -591,7 +591,7 @@ The following are required or this method will not work:
 
 </div>
 
-<div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
+<div class="embed-footer"><span class="embed-footer">Cutting corners will result in failure
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 

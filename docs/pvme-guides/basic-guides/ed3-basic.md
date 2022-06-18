@@ -206,20 +206,20 @@ The first boss you encounter. The boss heals over time, use <img title="weppoiso
     • Breath → 1 auto → sweeps → 2 autos → sweeps → Tactical Retreat.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Poisonous Breath</strong>
-</div><div class="embed-field-value markup" >⬥ The first mechanic of the fight. The Leviathan fires a breath attack in front of it, dealing rapid heavy typeless damage and contaminating the arena. Move to the side after initiating the fight to avoid death. <a href="https://imgur.com/RCt6T7m.mp4">Example</a>
-⬥ There are 2 safespots shown below. Stand here and you will be safe from the breath and headsweeps. <a href="https://imgur.com/wKjEfc9.png">Example</a>
+</div><div class="embed-field-value markup" >⬥ The first mechanic of the fight. The Leviathan fires a breath attack in front of it, dealing rapid heavy typeless damage and contaminating the arena. Move to the side after initiating the fight to avoid death. <a title="" href="https://imgur.com/RCt6T7m.mp4" target="_blank" rel="noreferrer">Example</a>
+⬥ There are 2 safespots shown below. Stand here and you will be safe from the breath and headsweeps. <a title="" href="https://imgur.com/wKjEfc9.png" target="_blank" rel="noreferrer">Example</a>
     • Use your halberd if you're meleeing during Poisonous Breath to avoid getting dragged in and dying instantly.
     • <img title="sunshinepf" class="d-emoji" alt="sunshinepf" src="https://cdn.discordapp.com/emojis/867678154143694868.png?v=1"> and <img title="deathsswiftpf" class="d-emoji" alt="deathsswiftpf" src="https://cdn.discordapp.com/emojis/867678153949708309.png?v=1"> at these spots.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Many Heads</strong>
-</div><div class="embed-field-value markup" >⬥ The Leviathan has additional heads that will stun and poison you in the contaminated zones if you are near them. <a href="https://imgur.com/YDfiuOf.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Leviathan has additional heads that will stun and poison you in the contaminated zones if you are near them. <a title="" href="https://imgur.com/YDfiuOf.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Head Sweep</strong>
-</div><div class="embed-field-value markup" >⬥ The Leviathan will slam its' head across the ground twice, dealing repeated typeless damage around ~4000 each if caught in the area. <a href="https://imgur.com/5sWppnG.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ The Leviathan will slam its' head across the ground twice, dealing repeated typeless damage around ~4000 each if caught in the area. <a title="" href="https://imgur.com/5sWppnG.mp4" target="_blank" rel="noreferrer">Example</a>
     • Avoided by moving to the opposite side of where the sweep begins.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Tactical Retreat</strong>
-</div><div class="embed-field-value markup" >⬥ After going through one <strong>Poisonous Breath</strong> and two sets of <strong>Head Sweeps</strong>, the Leviathan will move to opposite side of the arena, repeating his rotation. <a href="https://imgur.com/3iANozs.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ After going through one <strong>Poisonous Breath</strong> and two sets of <strong>Head Sweeps</strong>, the Leviathan will move to opposite side of the arena, repeating his rotation. <a title="" href="https://imgur.com/3iANozs.mp4" target="_blank" rel="noreferrer">Example</a>
     • <img title="anti" class="d-emoji" alt="anti" src="https://cdn.discordapp.com/emojis/535541306475151390.png?v=1"> → <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> + <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> to the other side.
     • Leviathan switching sides counts as walking for <img title="comb" class="d-emoji" alt="comb" src="https://cdn.discordapp.com/emojis/535533833098100745.png?v=1"> <img title="slaughter" class="d-emoji" alt="slaughter" src="https://cdn.discordapp.com/emojis/535532879237873666.png?v=1"> <img title="frag" class="d-emoji" alt="frag" src="https://cdn.discordapp.com/emojis/535541273755385885.png?v=1">
 ​
@@ -305,33 +305,33 @@ Taraket and his minions are classified as Undead for Salve Amulet <img title="sa
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Rift of Undeath</strong>
-</div><div class="embed-field-value markup" >⬥ Taraket spawns a rift with 30k HP that spawns skeletons periodically. <a href="https://imgur.com/Xq8JxyR.mp4">Example</a>
-    • Kill the Rift before the blue bar runs out, to avoid being dealt up to 9,000 hard typeless damage. <a href="https://imgur.com/lNWdkWt.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Taraket spawns a rift with 30k HP that spawns skeletons periodically. <a title="" href="https://imgur.com/Xq8JxyR.mp4" target="_blank" rel="noreferrer">Example</a>
+    • Kill the Rift before the blue bar runs out, to avoid being dealt up to 9,000 hard typeless damage. <a title="" href="https://imgur.com/lNWdkWt.mp4" target="_blank" rel="noreferrer">Example</a>
     • This mechanic is repeated throughout the fight.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Death's Swiftness</strong>
-</div><div class="embed-field-value markup" >⬥ Taraket uses Death's Swiftness <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1">, becoming immobile and switches to attacking using Ranged. These autos are slightly stronger than his Magic ones. <a href="https://imgur.com/pkwjo5O.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Taraket uses Death's Swiftness <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1">, becoming immobile and switches to attacking using Ranged. These autos are slightly stronger than his Magic ones. <a title="" href="https://imgur.com/pkwjo5O.mp4" target="_blank" rel="noreferrer">Example</a>
     • Remember to change your prayer flicking accordingly. 
     • This mechanic is repeated throughout the fight.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Corpse Carrier and Bloated Monstrosity</strong>
 </div><div class="embed-field-value markup" >⬥ Upon reaching 200K hitpoints, Taraket will become invulnerable and fly towards a black crystal at the sides of the arena, healing himself and spawning one of the two corpses: Corpse Carrier (west) or the Bloated Monstrosity (east), with 90K HP each. 
-    • The Corpse Carrier will continuously spawn skeletal mobs until its death. <a href="https://imgur.com/L3klbH8.mp4">Example</a>
-    • The Bloated Monstrosity increases the damage of Taraket's auto-attacks. <a href="https://imgur.com/LeJAsiN.mp4">Example</a>
+    • The Corpse Carrier will continuously spawn skeletal mobs until its death. <a title="" href="https://imgur.com/L3klbH8.mp4" target="_blank" rel="noreferrer">Example</a>
+    • The Bloated Monstrosity increases the damage of Taraket's auto-attacks. <a title="" href="https://imgur.com/LeJAsiN.mp4" target="_blank" rel="noreferrer">Example</a>
         - Both of these attack with melee and are very easy to kite if needed.
         - Kill these as soon as possible to avoid taking too much damage.
     • Taraket can only spawn these once each and will not heal upon hitting 200K HP afterwards.
     • The first spawn will always be the closest crystal to Taraket.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Spirit Wall</strong>
-</div><div class="embed-field-value markup" >⬥ Taraket smashes the ground infront of him for heavy melee damage, summoning a line of spirits infront of him that will move towards the player, dealing rapid typeless damage upon contact. <a href="https://imgur.com/ESTxXSQ.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Taraket smashes the ground infront of him for heavy melee damage, summoning a line of spirits infront of him that will move towards the player, dealing rapid typeless damage upon contact. <a title="" href="https://imgur.com/ESTxXSQ.mp4" target="_blank" rel="noreferrer">Example</a>
     • Taraket does this twice almost consecutively.
     • Move out of the way as needed be.
         - You can walk behind him to dodge both attacks if in melee distance.
         - Avoid this attack no matter what, it has the highest KO potential.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Absorb Undeath</strong>
-</div><div class="embed-field-value markup" >⬥ Periodically, Taraket may absorb all skeletons in the arena to heal 2,000 per skeleton. <a href="https://imgur.com/Kqlh96V.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Periodically, Taraket may absorb all skeletons in the arena to heal 2,000 per skeleton. <a title="" href="https://imgur.com/Kqlh96V.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
 </div></div></div>
 </div>
@@ -469,7 +469,7 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>1M - 550k</strong>
 </div><div class="embed-field-value markup" >⬥ Ambi does the following attack rotation:
     • Mage / Melee auto → 5 autos → Black Stone Flames → 5 autos  → Unstable Black Hole → 5 autos  → Black Stone Flames → 5 autos  → TriBeam + Sinister Fragments → Pulse of Erebus + 5 autos → Repeat
-    • Ambi usually does a magic auto when the fight starts. <a href="https://imgur.com/1oX424k.mp4">Example</a> Doing <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> + <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> to reach melee distance at the start of the fight will switch it into a melee auto. <a href="https://imgur.com/GGEN8a7.mp4">Example</a>
+    • Ambi usually does a magic auto when the fight starts. <a title="" href="https://imgur.com/1oX424k.mp4" target="_blank" rel="noreferrer">Example</a> Doing <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> + <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> to reach melee distance at the start of the fight will switch it into a melee auto. <a title="" href="https://imgur.com/GGEN8a7.mp4" target="_blank" rel="noreferrer">Example</a>
     • Changing the 1st auto into a melee auto changes the timing of the 1st smoke.
         - Mage 1st auto causes a 22.8s (38t) 1st smoke drop.
         - Melee 1st auto causes a 31.8s (53t) 1st smoke drop.
@@ -477,7 +477,7 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Black Stone Flames</strong>
 </div><div class="embed-field-value markup" >⬥ Instead of an auto, Ambi places a bar over the player's head. 
-    • When the bar almost depletes, two 5x5 areas around the player will become courrpted, separated by 2 ticks. <a href="https://imgur.com/5bWwQXr.mp4">Example</a>
+    • When the bar almost depletes, two 5x5 areas around the player will become courrpted, separated by 2 ticks. <a title="" href="https://imgur.com/5bWwQXr.mp4" target="_blank" rel="noreferrer">Example</a>
         - Don't move out immediately after the first smoke drops to drop both at the same place.
         - These zones will ramp up to 2000 typeless hits to anyone standing inside, get out when both are dropped.
         - Try to place the smokes next to each other.
@@ -485,14 +485,14 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
     • They remain until Seiryu clears them during his intervention.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Unstable Black Hole</strong>
-</div><div class="embed-field-value markup" >⬥ Ambi spawns a black hole near you. <a href="https://imgur.com/KkpYl0Z.mp4">Example</a>
-    • Stun it before the blue bar runs out to avoid a hard typeless hit (explosion shown below) of up to 9,000 <a href="https://imgur.com/mOScu8K.mp4">Example</a>, using abilities such as:
+</div><div class="embed-field-value markup" >⬥ Ambi spawns a black hole near you. <a title="" href="https://imgur.com/KkpYl0Z.mp4" target="_blank" rel="noreferrer">Example</a>
+    • Stun it before the blue bar runs out to avoid a hard typeless hit (explosion shown below) of up to 9,000 <a title="" href="https://imgur.com/mOScu8K.mp4" target="_blank" rel="noreferrer">Example</a>, using abilities such as:
         - <img title="melee" class="d-emoji" alt="melee" src="https://cdn.discordapp.com/emojis/615612332521029632.png?v=1"> <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> → <img title="backhand" class="d-emoji" alt="backhand" src="https://cdn.discordapp.com/emojis/535532854302605333.png?v=1"> → <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> back to Ambi or <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1"> with more than ~6k HP to tank
         - <img title="Ranged" class="d-emoji" alt="Ranged" src="https://cdn.discordapp.com/emojis/689504724403486920.png?v=1"> <img title="bindingshot" class="d-emoji" alt="bindingshot" src="https://cdn.discordapp.com/emojis/535541306563231790.png?v=1"> or <img title="demoralise" class="d-emoji" alt="demoralise" src="https://cdn.discordapp.com/emojis/535541258559553546.png?v=1">
         - <img title="Magic" class="d-emoji" alt="Magic" src="https://cdn.discordapp.com/emojis/689504724159823906.png?v=1"> <img title="impact" class="d-emoji" alt="impact" src="https://cdn.discordapp.com/emojis/535533809655873556.png?v=1"> or <img title="shock" class="d-emoji" alt="shock" src="https://cdn.discordapp.com/emojis/535533809932697610.png?v=1">
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Tribeam &amp; Sinister Fragments</strong>
-</div><div class="embed-field-value markup" >⬥ Six fragments will disperse to the edges of the arena with 20K HP each. At the same time, Ambi fires three slowly rotating beams for about a minute. <a href="https://imgur.com/Vg7ztvk.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Six fragments will disperse to the edges of the arena with 20K HP each. At the same time, Ambi fires three slowly rotating beams for about a minute. <a title="" href="https://imgur.com/Vg7ztvk.mp4" target="_blank" rel="noreferrer">Example</a>
     • Beams always spawn in set locations (N, SE, SW), and rotate counterclockwise slowly.
     • This occurs every full attack rotation <strong>or</strong> by hitting the 650K cap until the next phase commences.
     • Use <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> to move between spinners as its cooldown will be reset by each spinner death.
@@ -500,7 +500,7 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
     • The spinners are not immune to roots, binds and being pushed.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Pulse of Erebus</strong>
-</div><div class="embed-field-value markup" >⬥ Ambi absorbs any remaining fragments after a minute, and generates a blue bar overhead. When the bar almost depletes, he releases a hit of 8,000 soft typeless damage. He does this the same amount of times as spinners absorbed. <a href="https://imgur.com/3U8LBRS.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Ambi absorbs any remaining fragments after a minute, and generates a blue bar overhead. When the bar almost depletes, he releases a hit of 8,000 soft typeless damage. He does this the same amount of times as spinners absorbed. <a title="" href="https://imgur.com/3U8LBRS.mp4" target="_blank" rel="noreferrer">Example</a>
         - You can opt to kill 5 out of 6 and then use either <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> or <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> to block the hit.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>550k - 400k</strong>
@@ -509,7 +509,7 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
     • Crassian Ritual Keepers begin to spawn periodically, about once every 2 attack cycles.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Crassian Ritual Keepers</strong>
-</div><div class="embed-field-value markup" >⬥ Ambi spawns a pair of invulnerable Crassian Ritual Keepers that deal low ranged damage <a href="https://imgur.com/GuVOe7f.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Ambi spawns a pair of invulnerable Crassian Ritual Keepers that deal low ranged damage <a title="" href="https://imgur.com/GuVOe7f.mp4" target="_blank" rel="noreferrer">Example</a>
     • Do not use <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> as it will likely be sniped.
     • These last until Seiryu clears them during his intervention.
 ​
@@ -518,13 +518,13 @@ Ambi is the final boss of ED3 and attacks using primarily <img title="Ranged" cl
   ⬥ Seiryu intervenes shortly after, after which begins the Ritual phase.
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Seiryu's Intervention &amp; Black Hands</strong>
-</div><div class="embed-field-value markup" >⬥ Seiryu shows up and heals you to full with a beam, also removing all Black Stone Flames and Crassian Ritual Keepers shortly after. <a href="https://imgur.com/q39LXoM.mp4">Example</a>
-    • Black hands will then spawn, encircling the edge of the arena and healing Ambi. <a href="https://imgur.com/lzYID2k.mp4">Example</a>
-        - The hands slam down in a clockwise fashion, sending constant smokes towards Ambi, healing him for 2500 each. <a href="https://imgur.com/OJdaot8.mp4">Example</a>
-        - Standing between the Ambassador and the projectiles will make them black, damaging you for a small typeless hit and preventing Ambi from getting healed. Doing this is necessary. <a href="https://imgur.com/h6f0cFc.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Seiryu shows up and heals you to full with a beam, also removing all Black Stone Flames and Crassian Ritual Keepers shortly after. <a title="" href="https://imgur.com/q39LXoM.mp4" target="_blank" rel="noreferrer">Example</a>
+    • Black hands will then spawn, encircling the edge of the arena and healing Ambi. <a title="" href="https://imgur.com/lzYID2k.mp4" target="_blank" rel="noreferrer">Example</a>
+        - The hands slam down in a clockwise fashion, sending constant smokes towards Ambi, healing him for 2500 each. <a title="" href="https://imgur.com/OJdaot8.mp4" target="_blank" rel="noreferrer">Example</a>
+        - Standing between the Ambassador and the projectiles will make them black, damaging you for a small typeless hit and preventing Ambi from getting healed. Doing this is necessary. <a title="" href="https://imgur.com/h6f0cFc.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Magic Onslaught</strong>
-</div><div class="embed-field-value markup" >⬥ Every 10 auto attacks, Ambi will say Fall now and be forgotten and send out 5 hits that deal about 8000 magic damage each (40k total if taken raw). <a href="https://imgur.com/xPYzNrs.mp4">Example</a>
+</div><div class="embed-field-value markup" >⬥ Every 10 auto attacks, Ambi will say Fall now and be forgotten and send out 5 hits that deal about 8000 magic damage each (40k total if taken raw). <a title="" href="https://imgur.com/xPYzNrs.mp4" target="_blank" rel="noreferrer">Example</a>
     • Blocking Magic Onslaught (Most to least ideal)
         - Devotion <img title="devo" class="d-emoji" alt="devo" src="https://cdn.discordapp.com/emojis/513190158728953857.png?v=1"> (Can't be used for b2b Onslaughts due to cooldown)
         - Reflect <img title="reflect" class="d-emoji" alt="reflect" src="https://cdn.discordapp.com/emojis/535541258786177064.png?v=1"> + Vitality Powerburst <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1"> and eat.
