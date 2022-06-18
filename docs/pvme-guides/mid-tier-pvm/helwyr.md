@@ -88,30 +88,41 @@ Each Helwyr kill is worth <img title="coins" class="d-emoji" alt="coins" src="ht
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Mechanics</u>
+<div class="embed-title" ><strong>Mechanics</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Attack Rotations</u>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Attack Rotations</strong>
+
 </div><div class="embed-field-value markup" >Mushroom gas → 2 Autos → Cleave → 2 Autos → Frenzy → 2 Autos → Minion Spawn → 2 Autos → Repeat
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Mushroom Gas</u>
-</div><div class="embed-field-value markup" >⬥ Avoided by just running out of it. Stand near the edges of mushrooms to decrease the distance needed to move out of the gas. Standing in the gas will give you a 250 damage bleed every tick, and if standing in the gas for a prolonged time will bind you. <a title="" href="https://imgur.com/KHMLekU.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Mushroom Gas</strong>
+
+</div><div class="embed-field-value markup" >⬥ Avoided by just running out of it. Stand near the edges of mushrooms to decrease the distance needed to move out of the gas. Standing in the gas will give you a 250 damage bleed every tick, and if standing in the gas for a prolonged time will bind you. <a href="https://imgur.com/KHMLekU.mp4">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Cleave</u>
-</div><div class="embed-field-value markup" >⬥ Hits in a frontal cone for up to 3k and apply a bleed. Do not freedom this bleed. If you are standing a distance away from Helwyr, he will first lunge towards you before the attack. There are a few methods to handle this attack. <a title="" href="https://imgur.com/OKDS0F5.mp4" target="_blank" rel="noreferrer">Example</a>
-    • <img title="Magic" class="d-emoji" alt="Magic" src="https://cdn.discordapp.com/emojis/689504724159823906.png?v=1"> or <img title="Range" class="d-emoji" alt="Range" src="https://cdn.discordapp.com/emojis/580168050121113623.png?v=1">: move out of the damage cone.
-    • Can also be done with <img title="melee" class="d-emoji" alt="melee" src="https://cdn.discordapp.com/emojis/615612332521029632.png?v=1"> but is DPS waste.
-    • Resonance <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> (You will still acquire the bleed)
-    • <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> / <img title="Veng" class="d-emoji" alt="Veng" src="https://cdn.discordapp.com/emojis/543478434953822208.png?v=1">
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Cleave</strong>
+
+</div><div class="embed-field-value markup" >⬥ Hits in a frontal cone for up to 3k and apply a bleed. Do not freedom this bleed. If you are standing a distance away from Helwyr, he will first lunge towards you before the attack. There are a few methods to handle this attack. <a href="https://imgur.com/OKDS0F5.mp4">Example</a>
+    • &lt;:Magic:689504724159823906> or &lt;:Range:580168050121113623>: move out of the damage cone.
+    • Can also be done with &lt;:melee:615612332521029632> but is DPS waste.
+    • Resonance &lt;:res:535541258844635148> (You will still acquire the bleed)
+    • &lt;:disrupt:535614336207552523> / &lt;:Veng:543478434953822208>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Frenzy</u>
-</div><div class="embed-field-value markup" >⬥ Helwyr’s leaps around doing rapid melee damage while applying a bleed stack with each attack. While using Range or Magic, you can just run away, but with Melee it is better to stay put and continue doing damage. <a title="" href="https://imgur.com/G5CPPoC.mp4" target="_blank" rel="noreferrer">Example</a>
-    • You can pray melee <img title="DeflectMelee" class="d-emoji" alt="DeflectMelee" src="https://cdn.discordapp.com/emojis/544195488447201300.png?v=1"> and Devotion <img title="devo" class="d-emoji" alt="devo" src="https://cdn.discordapp.com/emojis/513190158728953857.png?v=1"> or Debilitate <img title="debil" class="d-emoji" alt="debil" src="https://cdn.discordapp.com/emojis/535541278264393729.png?v=1">.
-    • Freedom <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1">the bleed after the attack.
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Frenzy</strong>
+
+</div><div class="embed-field-value markup" >⬥ Helwyr’s leaps around doing rapid melee damage while applying a bleed stack with each attack. While using Range or Magic, you can just run away, but with Melee it is better to stay put and continue doing damage. <a href="https://imgur.com/G5CPPoC.mp4">Example</a>
+    • You can pray melee &lt;:DeflectMelee:544195488447201300> and Devotion &lt;:devo:513190158728953857> or Debilitate &lt;:debil:535541278264393729>.
+    • Freedom &lt;:freedom:535541258240786434>the bleed after the attack.
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Minion Spawn</u>
-</div><div class="embed-field-value markup" >⬥ Helwyr’s minion spawn attack has him howl and summon two 3k HP Cywir Alphas. Easily taken out with AoEs. <a title="" href="https://imgur.com/EB1ss4g.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Minion Spawn</strong>
+
+</div><div class="embed-field-value markup" >⬥ Helwyr’s minion spawn attack has him howl and summon two 3k HP Cywir Alphas. Easily taken out with AoEs. <a href="https://imgur.com/EB1ss4g.mp4">Example</a>
 ​
+
 </div></div></div>
 </div>
 

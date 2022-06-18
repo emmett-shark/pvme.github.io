@@ -132,29 +132,40 @@ This guide is made with the idea of getting started at Telos, and does not cover
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Phase 1</u>
+<div class="embed-title" ><strong>Phase 1</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Auto-Attacks</u>
-</div><div class="embed-field-value markup" >Telos attacks with <a title="" href="https://imgur.com/e6LpKti.mp4" target="_blank" rel="noreferrer">melee</a> when the player is in melee distance, otherwise <a title="" href="https://imgur.com/wMhIhgf.mp4" target="_blank" rel="noreferrer">magic</a>. If you leave MD, Telos will do one mage auto before walking up to you again.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Tendrils</u>
-</div><div class="embed-field-value markup" >⬥ Telos binds you in place, drains both your health and adrenaline, and heals himself for every hit the player takes. <a title="" href="https://imgur.com/n92IQzM.mp4" target="_blank" rel="noreferrer">Example</a>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Auto-Attacks</strong>
+
+</div><div class="embed-field-value markup" >Telos attacks with <a href="https://imgur.com/e6LpKti.mp4">melee</a> when the player is in melee distance, otherwise <a href="https://imgur.com/wMhIhgf.mp4">magic</a>. If you leave MD, Telos will do one mage auto before walking up to you again.
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Tendrils</strong>
+
+</div><div class="embed-field-value markup" >⬥ Telos binds you in place, drains both your health and adrenaline, and heals himself for every hit the player takes. <a href="https://imgur.com/n92IQzM.mp4">Example</a>
         - Deal (3,000 + 10 x Enrage) damage to free yourself.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Charge</u>
-</div><div class="embed-field-value markup" >⬥ Telos charges at the player after a short delay, dealing soft-typeless damage. <a title="" href="https://imgur.com/iUIAuba.mp4" target="_blank" rel="noreferrer">Example</a>
-        - Use <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1">/<img title="escape" class="d-emoji" alt="escape" src="https://cdn.discordapp.com/emojis/535541258832052231.png?v=1">/<img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> 1 tick after the text above Telos disappears. 
-        - Resort to <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1">/<img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> if necessary.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Hold Still</u>
-</div><div class="embed-field-value markup" >⬥ Telos hits the player with a normal attack followed by a large melee hit that stuns, then jumps to the spot the player was standing on. <a title="" href="https://imgur.com/fKhoh6P.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Charge</strong>
+
+</div><div class="embed-field-value markup" >⬥ Telos charges at the player after a short delay, dealing soft-typeless damage. <a href="https://imgur.com/iUIAuba.mp4">Example</a>
+        - Use &lt;:surge:535533810004262912>/&lt;:escape:535541258832052231>/&lt;:bd:535532854281764884> 1 tick after the text above Telos disappears. 
+        - Resort to &lt;:disrupt:535614336207552523>/&lt;:res:535541258844635148> if necessary.
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Hold Still</strong>
+
+</div><div class="embed-field-value markup" >⬥ Telos hits the player with a normal attack followed by a large melee hit that stuns, then jumps to the spot the player was standing on. <a href="https://imgur.com/fKhoh6P.mp4">Example</a>
     • The normal attack can be either a melee or a magic hit, depending on how far the player is. 
-        - <img title="anti" class="d-emoji" alt="anti" src="https://cdn.discordapp.com/emojis/535541306475151390.png?v=1">/<img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1"> beforehand to protect against the stun. 
-        - <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> the large melee hit. 
+        - &lt;:anti:535541306475151390>/&lt;:freedom:535541258240786434> beforehand to protect against the stun. 
+        - &lt;:res:535541258844635148> the large melee hit. 
         - Move out of the jump radius.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Green Beam</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Green Beam</strong>
+
 </div><div class="embed-field-value markup" >⬥ Spawns at a random location. 
     • When the player is standing in the beam, they gain rapid adrenaline. 
     • When Telos is standing in the beam, he attacks 1 tick faster. 
         - Phase boss before beam comes out.
+
 </div></div></div>
 </div>
 
@@ -186,24 +197,33 @@ This guide is made with the idea of getting started at Telos, and does not cover
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Phase 2</u>
+<div class="embed-title" ><strong>Phase 2</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Auto-Attacks</u>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Auto-Attacks</strong>
+
 </div><div class="embed-field-value markup" >Same as phase one: melee when in MD, otherwise mage. Again, if you move away, Telos will do one mage auto then walk back into MD.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Black Beam</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Black Beam</strong>
+
 </div><div class="embed-field-value markup" >⬥ Spawns on Telos. 
     • When the player is standing in the beam, they deal and take 30% less damage. 
     • When Telos is standing in the beam, the phase meter charges and he receives 20% less damage. 
         - Pull Telos out of the beam and avoid standing in it unless necessary.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Magic Onslaught</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Magic Onslaught</strong>
+
 </div><div class="embed-field-value markup" >⬥ Telos stops moving and fires gradually stronger magic attacks until the phase meter is depleted. 
-    • Move Telos out of the beam before this attack starts so the bar doesn't fill too much.  
+    • Move Telos out of the beam before this attack starts so the bar doesn't fill too much. <br />
     • If Telos starts this attack while in the beam, block it by standing in it. 
-        - Use <img title="DeflectMage" class="d-emoji" alt="DeflectMage" src="https://cdn.discordapp.com/emojis/544195487926845462.png?v=1">, restort to <img title="devo" class="d-emoji" alt="devo" src="https://cdn.discordapp.com/emojis/513190158728953857.png?v=1"> and/or <img title="reflect" class="d-emoji" alt="reflect" src="https://cdn.discordapp.com/emojis/535541258786177064.png?v=1"> if the meter was charged too much.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Virus</u>
+        - Use &lt;:DeflectMage:544195487926845462>, restort to &lt;:devo:513190158728953857> and/or &lt;:reflect:535541258786177064> if the meter was charged too much.
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Virus</strong>
+
 </div><div class="embed-field-value markup" >⬥ The player receives a coloured virus that deals constant damage. 
         - Stand in the beam to clease the virus.
+
 </div></div></div>
 </div>
 
@@ -235,25 +255,34 @@ This guide is made with the idea of getting started at Telos, and does not cover
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Phase 3</u>
+<div class="embed-title" ><strong>Phase 3</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Auto-Attacks</u>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Auto-Attacks</strong>
+
 </div><div class="embed-field-value markup" >Telos only attacks with magic throughout this phase.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Red Beam</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Red Beam</strong>
+
 </div><div class="embed-field-value markup" >⬥ Spawns at a random location. 
     • When the player is standing in the beam, they deal and take 30% increased damage. 
     • When Telos is standing in the beam, the phase meter charges and he deals 30% increased damage.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Phase Meter and Golems</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Phase Meter and Golems</strong>
+
 </div><div class="embed-field-value markup" >⬥ Meter naturally decreases. 
 ⬥ Meter increases when Telos is standing in the beam. 
 ⬥ With 1 golem alive, the meter slowly decreases. 
 ⬥ With 2 golems alive, the meter remains stationary (increases and decreases back and fourth). 
 ⬥ With 3 golems alive, the meter increases.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Shockwaves and Drain</u>
-</div><div class="embed-field-value markup" >⬥ If meter is on the left side → <b><u>Drain:</u></b> Telos drains the player's adrenaline and prayer points. <a title="" href="https://imgur.com/IrOrcBM.mp4" target="_blank" rel="noreferrer">Example</a>
-⬥ If meter is on the right side → <b><u>Shockwaves:</u></b> Rapid, hard hitting soft-typeless attacks. <a title="" href="https://imgur.com/GNj9g8i.mp4" target="_blank" rel="noreferrer">Example</a>
-        - Phase Telos before he could use Shockwaves, otherwise resort to <img title="reflect" class="d-emoji" alt="reflect" src="https://cdn.discordapp.com/emojis/535541258786177064.png?v=1">
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Shockwaves and Drain</strong>
+
+</div><div class="embed-field-value markup" >⬥ If meter is on the left side → <strong><em>_Drain:</em><em></strong> Telos drains the player's adrenaline and prayer points. <a href="https://imgur.com/IrOrcBM.mp4">Example</a>
+⬥ If meter is on the right side → <strong></em><em>Shockwaves:</em>_</strong> Rapid, hard hitting soft-typeless attacks. <a href="https://imgur.com/GNj9g8i.mp4">Example</a>
+        - Phase Telos before he could use Shockwaves, otherwise resort to &lt;:reflect:535541258786177064>
+
 </div></div></div>
 </div>
 
@@ -285,39 +314,52 @@ This guide is made with the idea of getting started at Telos, and does not cover
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Phase 4</u>
+<div class="embed-title" ><strong>Phase 4</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Auto-Attacks</u>
-</div><div class="embed-field-value markup" >Telos attacks with melee when the player is in melee distance, otherwise magic. Telos will <b>not</b> re-enter MD if you move away from him on P4 after his first attack.
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Auto-Attacks</strong>
+
+</div><div class="embed-field-value markup" >Telos attacks with melee when the player is in melee distance, otherwise magic. Telos will <strong>not</strong> re-enter MD if you move away from him on P4 after his first attack.
 ⬥ Phase 4 is split into 4 smaller sections, separated by 3 fonts. 
     • Deal a quarter of Telos's starting phase HP to phase him into a font. 
     • Once phased, you lose your target, Telos becomes untargetable, walks up to a font and spawns 3 different-coloured golems.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Golems</u>
-</div><div class="embed-field-value markup" >⬥ Three different-coloured melee golems spawn at each font. <a title="" href="https://imgur.com/Pqb71gY.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Golems</strong>
+
+</div><div class="embed-field-value markup" >⬥ Three different-coloured melee golems spawn at each font. <a href="https://imgur.com/Pqb71gY.mp4">Example</a>
     • Red golems attacks are able to stun after their first 3 hits. 
-        - Utilise <img title="anti" class="d-emoji" alt="anti" src="https://cdn.discordapp.com/emojis/535541306475151390.png?v=1">, resort to <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1"> if you got stunned. 
+        - Utilise &lt;:anti:535541306475151390>, resort to &lt;:freedom:535541258240786434> if you got stunned. 
     • Red golems have normal attack range. 
     • Green and black golems have halberd attack range.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Fonts</u>
-</div><div class="embed-field-value markup" >⬥ To block Telos's instakill, players must walk up to and charge the fonts with their HP, for a total of 5 hits while dealing with golems. <a title="" href="https://imgur.com/mBqSukd.mp4" target="_blank" rel="noreferrer">Example</a>
-        - Utilise <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> + <img title="reflect" class="d-emoji" alt="reflect" src="https://cdn.discordapp.com/emojis/535541258786177064.png?v=1"> to reduce damage taken from fonts. 
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Fonts</strong>
+
+</div><div class="embed-field-value markup" >⬥ To block Telos's instakill, players must walk up to and charge the fonts with their HP, for a total of 5 hits while dealing with golems. <a href="https://imgur.com/mBqSukd.mp4">Example</a>
+        - Utilise &lt;:res:535541258844635148> + &lt;:reflect:535541258786177064> to reduce damage taken from fonts. 
         - Relevant defensives do NOT work on the last hit of fonts. 
         - Once the instakill is negated, all of your defensive abilities get placed on a 6s cooldown.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Font 3</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Font 3</strong>
+
 </div><div class="embed-field-value markup" >⬥ Wrap around the center of the room and wait for the three golems to spawn. 
-    • When the golems reach you, target the furthest one → <img title="ent" class="d-emoji" alt="ent" src="https://cdn.discordapp.com/emojis/567727987274022924.png?v=1"> + <img title="corruptblast" class="d-emoji" alt="corruptblast" src="https://cdn.discordapp.com/emojis/513190159194259467.png?v=1"> + <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> 
-        - See example <a title="" href="https://imgur.com/dyeeCcK" target="_blank" rel="noreferrer">here</a> 
+    • When the golems reach you, target the furthest one → &lt;:ent:567727987274022924> + &lt;:corruptblast:513190159194259467> + &lt;:surge:535533810004262912> 
+        - See example <a href="https://imgur.com/dyeeCcK">here</a> 
     • Chrage the font and phase Telos into P5.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Weak Anima Bomb</u>
-</div><div class="embed-field-value markup" >⬥ Telos fires a slow moving orb that deals soft-typeless damage. <a title="" href="https://imgur.com/rOCPDcD.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Weak Anima Bomb</strong>
+
+</div><div class="embed-field-value markup" >⬥ Telos fires a slow moving orb that deals soft-typeless damage. <a href="https://imgur.com/rOCPDcD.mp4">Example</a>
     • The player's overload timer is constantly drained after getting hit until cleansed. 
-        - Ideally skip the mechanic, otherwise block using <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">/<img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> 
+        - Ideally skip the mechanic, otherwise block using &lt;:res:535541258844635148>/&lt;:disrupt:535614336207552523> 
         - Cleanse the overload debuff by stepping into one of the fonts.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>So Much Power (SMP)</u>
-</div><div class="embed-field-value markup" >⬥ Once phase meter is filled, the next special attack is replaced by an SMP. <a title="" href="https://imgur.com/Ft9mmv4.mp4" target="_blank" rel="noreferrer">Example</a>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>So Much Power (SMP)</strong>
+
+</div><div class="embed-field-value markup" >⬥ Once phase meter is filled, the next special attack is replaced by an SMP. <a href="https://imgur.com/Ft9mmv4.mp4">Example</a>
 ⬥ Telos fires a deadly soft-typeless attack paired with a normal attack (much like Hold Still). 
-        - Ideally skip the mechanic, otherwise block with <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> or <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">
+        - Ideally skip the mechanic, otherwise block with &lt;:disrupt:535614336207552523> or &lt;:res:535541258844635148>
+
 </div></div></div>
 </div>
 
@@ -349,30 +391,41 @@ This guide is made with the idea of getting started at Telos, and does not cover
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Phase 5</u>
+<div class="embed-title" ><strong>Phase 5</strong>
+
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Auto-Attacks</u>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Auto-Attacks</strong>
+
 </div><div class="embed-field-value markup" >Telos only attacks with magic throughout this phase. 
-<i>Note: Telos attacks 1 tick faster if green beam is not blocked by the player.</i>
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Strategy</u>
+<em>Note: Telos attacks 1 tick faster if green beam is not blocked by the player.</em>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Strategy</strong>
+
 </div><div class="embed-field-value markup" >⬥ Telos spawns 6 similar-colored minions at the start of the phase. 
 ⬥ Make your way to the green beam. 
     • Lure golems properly. 
         - To do this, always start by going to the left beam. 
         - If side beams → enter the 2nd tile in the green beam. 
         - If back beam → enter the 4th tile in the beam.
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Rock</u>
-</div><div class="embed-field-value markup" >⬥ A single rock falls at certain times during the phase.  
-        - Utilise <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1">+ <img title="reflect" class="d-emoji" alt="reflect" src="https://cdn.discordapp.com/emojis/535541258786177064.png?v=1">
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Virus</u>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Rock</strong>
+
+</div><div class="embed-field-value markup" >⬥ A single rock falls at certain times during the phase. <br />
+        - Utilise &lt;:vitality:654618235097972737>+ &lt;:reflect:535541258786177064>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Virus</strong>
+
 </div><div class="embed-field-value markup" >⬥ The player receives a random-coloured virus that deals constant damage. 
     • To cleanse the virus stand in the beam of the same colour. 
-        - Utilise <img title="debil" class="d-emoji" alt="debil" src="https://cdn.discordapp.com/emojis/535541278264393729.png?v=1"> + <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1">/<img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1">
-</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Phase Meter</u>
+        - Utilise &lt;:debil:535541278264393729> + &lt;:surge:535533810004262912>/&lt;:bd:535532854281764884>
+
+</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Phase Meter</strong>
+
 </div><div class="embed-field-value markup" >⬥ Gradually fills up 
-    • Once filled, Telos begins charging an instakill attack and receives heavily reduced damage. <a title="" href="https://imgur.com/7vfE0Da.mp4" target="_blank" rel="noreferrer">Example</a>
-        - Ideally kill before he can use this mechanic, otherwise <img title="immort" class="d-emoji" alt="immort" src="https://cdn.discordapp.com/emojis/535541258538582017.png?v=1">
+    • Once filled, Telos begins charging an instakill attack and receives heavily reduced damage. <a href="https://imgur.com/7vfE0Da.mp4">Example</a>
+        - Ideally kill before he can use this mechanic, otherwise &lt;:immort:535541258538582017>
+
 </div></div></div>
 </div>
 

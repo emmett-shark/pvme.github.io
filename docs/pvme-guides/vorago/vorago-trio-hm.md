@@ -1308,51 +1308,77 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <div class="embed-content-inner">
 
 <div class="embed-title" >Maul guide for Hard Mode
+
 </div>
 <div class="embed-description markup" >The following go from Best to Worst timing.
+
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>Ceiling Collapse</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: TS 3 OFF 3 GB 5
-• <b>P11</b>: TS 3 OFF 3 Vit 3
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Ceiling Collapse</em>_</strong>
 
-1. Maul GB release
-2. Maul TS
-3. Maul Reflect
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>Scopulus</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: PB 5 OFF 3 TS 3
-• <b>P11</b>: PB 5 OFF 3 Vit 3
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 GB 5
+• <strong>P11</strong>: TS 3 OFF 3 Vit 3
 
-1. Maul TS
-2. Maul PB release
-3. Maul Reflect
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>Vitalis</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: Vit 3 OFF 3 PB 5
-• <b>P11</b>: Vit 3 OFF 3 Bleeds 3
 
-1. Maul Reflect
-2. Maul PB release
-3. Maul Vit release
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>Green Bomb</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: GB 5 OFF 3 Vit 3
-• <b>P11</b>: GB 5 OFF 3 TS 3
+<ol>
+<li>Maul GB release</li>
+<li>Maul TS</li>
+<li>Maul Reflect</li>
+</ol>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Scopulus</em>_</strong>
 
-1. Maul GB release
-2. Maul Vit release
-3. Maul Reflect
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>Team Split</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: TS 3 OFF 3 TS 3
-• <b>P11</b>: TS 3 OFF 3 PB 5
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 TS 3
+• <strong>P11</strong>: PB 5 OFF 3 Vit 3
 
-1. Maul Reflect
-2. Maul 1st TS
-3. Maul 2nd TS
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><b><u>The End</u></b>
-</div><div class="embed-field-value markup" >• <b>P10</b>: PB 5 OFF 3 Bleeds 3
-• <b>P11</b>: PB 5 OFF 3 Vit 3
 
-1. Maul After bleeds
-2. Maul PB release
-3. Maul Reflect
+<ol>
+<li>Maul TS</li>
+<li>Maul PB release</li>
+<li>Maul Reflect</li>
+</ol>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Vitalis</em>_</strong>
+
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: Vit 3 OFF 3 PB 5
+• <strong>P11</strong>: Vit 3 OFF 3 Bleeds 3
+
+
+<ol>
+<li>Maul Reflect</li>
+<li>Maul PB release</li>
+<li>Maul Vit release</li>
+</ol>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Green Bomb</em>_</strong>
+
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: GB 5 OFF 3 Vit 3
+• <strong>P11</strong>: GB 5 OFF 3 TS 3
+
+
+<ol>
+<li>Maul GB release</li>
+<li>Maul Vit release</li>
+<li>Maul Reflect</li>
+</ol>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Team Split</em>_</strong>
+
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 TS 3
+• <strong>P11</strong>: TS 3 OFF 3 PB 5
+
+
+<ol>
+<li>Maul Reflect</li>
+<li>Maul 1st TS</li>
+<li>Maul 2nd TS</li>
+</ol>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_The End</em>_</strong>
+
+</div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 Bleeds 3
+• <strong>P11</strong>: PB 5 OFF 3 Vit 3
+
+
+<ol>
+<li>Maul After bleeds</li>
+<li>Maul PB release</li>
+<li>Maul Reflect</li>
+</ol>
 </div></div></div>
 </div>
 

@@ -784,13 +784,17 @@ This will occur 7 times before the boss becomes vulnerable again and continues t
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><u>Example Runs</u>
+<div class="embed-title" ><strong>Example Runs</strong>
+
 </div>
-<div class="embed-description markup" >https://youtu.be/lsris6thu8g - 18:02 no food no bank run by #Linie
+<div class="embed-description markup" >https://youtu.be/lsris6thu8g - 18:02 no food no bank run by &lt;@!133391081109716992>
 
-https://youtu.be/rQDaUsbrbQM - 14:38 by #Onyksi
 
-https://youtu.be/dyg74ucD5nc - 12:45 by #Unknown user
+https://youtu.be/rQDaUsbrbQM - 14:38 by &lt;@!281823193742835714>
+
+
+https://youtu.be/dyg74ucD5nc - 12:45 by &lt;@!128957522630541312>
+
 </div>
 
 </div>
