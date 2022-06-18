@@ -17,10 +17,9 @@ credentials.json
 
 # mkdocs
 site
-docs/pvme-guides
 
 # pvme-guides repo
-pvme-guides
+/pvme-guides
 
 # env file
 .env
