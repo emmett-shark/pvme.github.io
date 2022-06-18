@@ -597,7 +597,7 @@ Just like in the end of Phase 2, it is highly recommended to place a combat dumm
 
 
 
-⬥ Check [#vorago-tips-and-tricks](../vorago/vorago-tips-and-tricks.md) for more information about how stall works.
+⬥ Check [#vorago-tips-and-tricks](../../vorago/vorago-tips-and-tricks) for more information about how stall works.
 
 
 
@@ -701,7 +701,7 @@ Just like in the end of Phase 2, it is highly recommended to place a combat dumm
 
 **^^Mauling^^**
 
-Finish him! Congrats on your kill! Make sure to find the official Vorago Duo Hard Mode Achievement spreadsheet in [#pvm-achievement-sheets](../miscellaneous-information/pvm-achievement-sheets.md) and follow the instructions to submit your personal kill!
+Finish him! Congrats on your kill! Make sure to find the official Vorago Duo Hard Mode Achievement spreadsheet in <a href="" class="inactiveLink">#unknown-channel</a> and follow the instructions to submit your personal kill!
 
 
 ## Acknowledgements

@@ -14,7 +14,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** ~2.7m (Chins), ~2.1m (Melee)
 
-⬥ Method: See [#ripper-demon](../slayer/ripper-demon.md)
+⬥ Method: See [#ripper-demon](../../slayer/ripper-demon)
 
 ⬥ Location: Al-Kharid Ripper Demon cave
 
@@ -29,7 +29,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** 1.87m XP/h
 
-⬥ Method: See [#moss-golems](../slayer/moss-golems.md)
+⬥ Method: See [#moss-golems](../../slayer/moss-golems)
 
 ⬥ Location: The Lost Grove, South-east clearing
 
@@ -59,7 +59,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** 850k XP/h
 
-⬥ Method: See [#nightmare-creatures](../slayer/nightmare-creatures.md)
+⬥ Method: See [#nightmare-creatures](../../slayer/nightmare-creatures)
 
 ⬥ Location: Ritual site, Freneskae, accessible through the World Gate
 
@@ -74,7 +74,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** ~500k - ~1.4m
 
-⬥ Method: See [#soul-devourers](../slayer/soul-devourers.md)
+⬥ Method: See [#soul-devourers](../../slayer/soul-devourers)
 
 ⬥ Location: Sophanem Slayer Dungeon, Player-owned Slayer dungeon
 
@@ -119,7 +119,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** ~1m XP/h
 
-⬥ Method: See [#raptor-mobs](../slayer/raptor-mobs.md)
+⬥ Method: See [#raptor-mobs](../../slayer/raptor-mobs)
 
 ⬥ Location: Living Wyvern cavern, in the dungeon under Mudskipper Point
 
@@ -134,7 +134,7 @@ This channel provides a list of the ideal tasks to do for XP on the way to 120, 
 
 ⬥ **<img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> XP per hour :** 1.06m XP/h
 
-⬥ ⬥ Method: See [#raptor-mobs](../slayer/raptor-mobs.md)
+⬥ ⬥ Method: See [#raptor-mobs](../../slayer/raptor-mobs)
 
 ⬥ Location: Mammoth iceberg, accessible via the boat north of Fremenik lodestone
 

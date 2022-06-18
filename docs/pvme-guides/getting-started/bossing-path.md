@@ -19,7 +19,7 @@ Initial combat experience can be gained by doing general Slayer. This can be use
 
 ⬥ You may find an opportunity to get started with basic defensive ability usage
 
-⬥ [#twin-furies](../mid-tier-pvm/twin-furies.md)
+⬥ [#twin-furies](../../mid-tier-pvm/twin-furies)
 
 
 **^^Vindicta^^** <img title="Vindicta" class="d-emoji" alt="Vindicta" src="https://cdn.discordapp.com/emojis/513212949385445376.png?v=1">
@@ -32,7 +32,7 @@ Initial combat experience can be gained by doing general Slayer. This can be use
 
 ⬥ Difficulty and potential learning experience can be improved by adding Soul Split <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1"> flicking and faster methods.
 
-⬥ [#vindicta](../mid-tier-pvm/vindicta.md)
+⬥ [#vindicta](../../mid-tier-pvm/vindicta)
 
 
 **^^Helwyr^^** <img title="Helwyr" class="d-emoji" alt="Helwyr" src="https://cdn.discordapp.com/emojis/513213019635843100.png?v=1">
@@ -45,7 +45,7 @@ Initial combat experience can be gained by doing general Slayer. This can be use
 
 ⬥ Good place to learn why abilities are where they are in a rotation
 
-⬥ [#helwyr](../mid-tier-pvm/helwyr.md)
+⬥ [#helwyr](../../mid-tier-pvm/helwyr)
 
 
 **^^Gregorovic^^** <img title="Gregorovic" class="d-emoji" alt="Gregorovic" src="https://cdn.discordapp.com/emojis/513212998274383914.png?v=1">
@@ -56,7 +56,7 @@ Initial combat experience can be gained by doing general Slayer. This can be use
 
 ⬥ Punishes low damage, as the fight gets harder the longer it continues
 
-⬥ [#gregorovic](../mid-tier-pvm/gregorovic.md)
+⬥ [#gregorovic](../../mid-tier-pvm/gregorovic)
 
 
 
@@ -75,9 +75,9 @@ At this point you can try any group boss you can access if you want. Beastmaster
 
  ‎ ‎ ‎ ‎• Improvisation
 
-⬥ [#nex-duo-ranged](../nex-aod/nex-duo-ranged.md)
+⬥ [#nex-duo-ranged](../../nex-aod/nex-duo-ranged)
 
-⬥ [#nex-solo-ranged](../nex-aod/nex-solo-ranged.md)
+⬥ [#nex-solo-ranged](../../nex-aod/nex-solo-ranged)
 
 
 **^^Araxxi^^** <img title="Mallory" class="d-emoji" alt="Mallory" src="https://cdn.discordapp.com/emojis/513212580148543489.png?v=1">
@@ -92,9 +92,9 @@ The most common milestone for a player getting into higher PvM. This boss has pu
 
 ⬥ Significantly improve the speed of your reactions
 
-⬥ [#araxxor-melee](../high-tier-pvm/araxxor-melee.md)
+⬥ [#araxxor-melee](../../high-tier-pvm/araxxor-melee)
 
-⬥ [#araxxor-range](../high-tier-pvm/araxxor-range.md)
+⬥ [#araxxor-range](../../high-tier-pvm/araxxor-range)
 
 
 **^^Elite Dungeons | Solo Runs^^** <img title="Seiryu" class="d-emoji" alt="Seiryu" src="https://cdn.discordapp.com/emojis/583430543321071626.png?v=1"> <img title="BSD" class="d-emoji" alt="BSD" src="https://cdn.discordapp.com/emojis/583430542326759435.png?v=1"> <img title="Ambassador" class="d-emoji" alt="Ambassador" src="https://cdn.discordapp.com/emojis/583430542809235458.png?v=1">
@@ -113,27 +113,27 @@ The most common milestone for a player getting into higher PvM. This boss has pu
 
 Elite Dungeon One: Temple of Aminishi
 
-⬥ [#temple-of-aminishi-melee](../elite-dungeons/temple-of-aminishi-melee.md)
+⬥ [#ED1-melee](../../elite-dungeons/ED1-melee)
 
-⬥ [#temple-of-aminishi-ranged](../elite-dungeons/temple-of-aminishi-ranged.md)
+⬥ [#ED1-ranged](../../elite-dungeons/ED1-ranged)
 
 
 
 Elite dungeon Two: Dragonkin Laboratory
 
-⬥ [#dragonkin-laboratory-ranged](../elite-dungeons/dragonkin-laboratory-ranged.md)
+⬥ [#ED2-ranged](../../elite-dungeons/ED2-ranged)
 
-⬥ [#dragonkin-laboratory-magic](../elite-dungeons/dragonkin-laboratory-magic.md)
+⬥ [#ED2-magic](../../elite-dungeons/ED2-magic)
 
 
 
 Elite Dungeon Three: Shadow Reef
 
-⬥ [#the-shadow-reef-melee](../elite-dungeons/the-shadow-reef-melee.md)
+⬥ [#ED3-melee](../../elite-dungeons/ED3-melee)
 
-⬥ [#the-shadow-reef-ranged](../elite-dungeons/the-shadow-reef-ranged.md)
+⬥ [#ED3-ranged](../../elite-dungeons/ED3-ranged)
 
-⬥ [#the-shadow-reef-magic](../elite-dungeons/the-shadow-reef-magic.md)
+⬥ [#ED3-magic](../../elite-dungeons/ED3-magic)
 
 
 **^^Raksha | Solo/Duo^^** <img title="raksha" class="d-emoji" alt="raksha" src="https://cdn.discordapp.com/emojis/789813907706478603.png?v=1">
@@ -152,7 +152,7 @@ Elite Dungeon Three: Shadow Reef
 
 ⬥ Good fight to practice long-term Ranged ability rotations
 
-⬥ [#raksha](../high-tier-pvm/raksha.md)
+⬥ [#raksha](../../high-tier-pvm/raksha)
 
 
 **^^Telos^^** <img title="Telos" class="d-emoji" alt="Telos" src="https://cdn.discordapp.com/emojis/513212949033123840.png?v=1">
@@ -173,7 +173,7 @@ Elite Dungeon Three: Shadow Reef
 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎- Magic is generally advised for Telos learners, since it is the safest style and has the lowest entry gear requirements.
 
-⬥ [#telos-beginner](../telos/telos-beginner.md)
+⬥ [#telos-basic](../../basic-guides/telos-basic)
 
 
 ## Other Good PvM Encounters

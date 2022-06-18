@@ -8,7 +8,7 @@
 ## Revolution Bars and General Background Knowledge
 
 
-⬥ For general PvM terminology, DPM tips, and revolution bars, see [#dpm-advice-faq](../dpm-advice/dpm-advice-faq.md)
+⬥ For general PvM terminology, DPM tips, and revolution bars, see [#dpm-advice-faq](../../dpm-advice/dpm-advice-faq)
 
 
 ## Ability Prioritizations & Building a Rotation
@@ -568,7 +568,7 @@
 
 **^^Special Attacks^^**
 
-*Note: all special attacks have an inherent cooldown when doing back-to-back special attacks, this is discussed in [#ability-information](../miscellaneous-information/ability-information.md)*
+*Note: all special attacks have an inherent cooldown when doing back-to-back special attacks, this is discussed in [#ability-information](../../miscellaneous-information/ability-information)*
 
 
 ⬥ **Guthix Staff** <img title="gstaff" class="d-emoji" alt="gstaff" src="https://cdn.discordapp.com/emojis/513203008608141314.png?v=1">

@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This guide assumes **very** strong understanding of everything found in [#telos-beginner](../telos/telos-beginner.md) and [#telos-stun-guide](../telos/telos-stun-guide.md). The rotations listed below are ideally used at 1000%+ enrage. However, they will generally work at lower enrage as well, and it is encouraged to learn these rotations as early as possible to build good habits and muscle memory.
+This guide assumes **very** strong understanding of everything found in [#telos-basic](../../basic-guides/telos-basic) and [#telos-stuns-mechanics](../../telos/telos-stuns-mechanics). The rotations listed below are ideally used at 1000%+ enrage. However, they will generally work at lower enrage as well, and it is encouraged to learn these rotations as early as possible to build good habits and muscle memory.
 
 
 

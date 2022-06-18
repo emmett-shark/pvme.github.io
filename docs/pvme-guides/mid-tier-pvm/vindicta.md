@@ -327,7 +327,7 @@ Drink Grand Magic Potion before going in w/ Prayers on (prot melee + Augury), sp
 
 ⬥ To time Target Cycle just spam it *and* run to spot and you will get it, ideally have these binds near one another to make it easy to do
 
- ‎ ‎ ‎ ‎• Refer to [#mechanics](../miscellaneous-information/mechanics.md) to set up Target Cycle.
+ ‎ ‎ ‎ ‎• Refer to [#mechanics](../../miscellaneous-information/mechanics) to set up Target Cycle.
 
  ‎ ‎ ‎ ‎• Further, it is important to ensure you run and spam the bind, for if you try to Target Cycle without a target it goes on a cooldown which is reset by walking a tile.
 

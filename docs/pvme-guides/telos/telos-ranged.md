@@ -129,7 +129,7 @@ Inventory space is at a massive premium here, which this preset will reflect. Yo
 
 
 
-⬥ In addition, depending on you owning an Eldritch Crossbow <img title="ecb" class="d-emoji" alt="ecb" src="https://cdn.discordapp.com/emojis/615618531937222657.png?v=1"> inside an Essence of Finality <img title="eofor" class="d-emoji" alt="eofor" src="https://cdn.discordapp.com/emojis/745279787471470713.png?v=1">, it depends on what type of thrown overrides (more details in [#dpm-advice-range](../dpm-advice/dpm-advice-range.md)) you cannot have on.
+⬥ In addition, depending on you owning an Eldritch Crossbow <img title="ecb" class="d-emoji" alt="ecb" src="https://cdn.discordapp.com/emojis/615618531937222657.png?v=1"> inside an Essence of Finality <img title="eofor" class="d-emoji" alt="eofor" src="https://cdn.discordapp.com/emojis/745279787471470713.png?v=1">, it depends on what type of thrown overrides (more details in [#dpm-advice-range](../../dpm-advice/dpm-advice-range)) you cannot have on.
 
  ‎ ‎ ‎ ‎• If you do not have one, only use a Blowpipe override.
 

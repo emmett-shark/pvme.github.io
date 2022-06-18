@@ -24,7 +24,7 @@ With the powerful ECB <img title="ecb" class="d-emoji" alt="ecb" src="https://cd
 
 ^^**General Notes**^^
 
-⬥ The guide contains rotations for Root skips, the timings of which can be found in [#solak-mechanics](../solak/solak-mechanics.md).
+⬥ The guide contains rotations for Root skips, the timings of which can be found in [#solak-mechanics](../../solak/solak-mechanics).
 
 
 
@@ -90,7 +90,7 @@ With the powerful ECB <img title="ecb" class="d-emoji" alt="ecb" src="https://cd
 
 
 
-*Note 2: Depending on HP at the end of <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1">, you can use a mixture of good thresholds and basics to build up to 100% for the next <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> at ~57s, whilst placing the dummy <img title="dummy" class="d-emoji" alt="dummy" src="https://cdn.discordapp.com/emojis/656844963522281473.png?v=1">. Video examples of how to place the dummy can be found in [#solak-mechanics](../solak/solak-mechanics.md) **This <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> uses <img title="adrenrenewal" class="d-emoji" alt="adrenrenewal" src="https://cdn.discordapp.com/emojis/736298121704767538.png?v=1">**. When clearing roots <img title="roots" class="d-emoji" alt="roots" src="https://cdn.discordapp.com/emojis/848803062684581929.png?v=1"> you can use those to build to 100%, kill at least 1 with mines and 1 (2 if you have time with a good P1) with abilities, before moving on to arms.*
+*Note 2: Depending on HP at the end of <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1">, you can use a mixture of good thresholds and basics to build up to 100% for the next <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> at ~57s, whilst placing the dummy <img title="dummy" class="d-emoji" alt="dummy" src="https://cdn.discordapp.com/emojis/656844963522281473.png?v=1">. Video examples of how to place the dummy can be found in [#solak-mechanics](../../solak/solak-mechanics) **This <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> uses <img title="adrenrenewal" class="d-emoji" alt="adrenrenewal" src="https://cdn.discordapp.com/emojis/736298121704767538.png?v=1">**. When clearing roots <img title="roots" class="d-emoji" alt="roots" src="https://cdn.discordapp.com/emojis/848803062684581929.png?v=1"> you can use those to build to 100%, kill at least 1 with mines and 1 (2 if you have time with a good P1) with abilities, before moving on to arms.*
 
 
 **^^Solak's Arms^^**
@@ -259,7 +259,7 @@ Phase 4 rotations assume that the player is intending to kill Solak without ente
 
 
 
-⬥ If teammates are missing, a realming guide can be found in [#solak-mechanics](../solak/solak-mechanics.md), as an attempt to salvage the kills.
+⬥ If teammates are missing, a realming guide can be found in [#solak-mechanics](../../solak/solak-mechanics), as an attempt to salvage the kills.
 
 
 

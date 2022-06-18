@@ -372,7 +372,7 @@ staff abil → DW abil → freedom (oh + 2H auto) → any abil → DW abil
 
  ‎ ‎ ‎ ‎• This is done by pressing the keybind for <img title="Vuln" class="d-emoji" alt="Vuln" src="https://cdn.discordapp.com/emojis/537349530551582720.png?v=1"> or <img title="ent" class="d-emoji" alt="ent" src="https://cdn.discordapp.com/emojis/567727987274022924.png?v=1">, followed by the keybind for <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1">, <img title="anti" class="d-emoji" alt="anti" src="https://cdn.discordapp.com/emojis/535541306475151390.png?v=1">, <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">, <img title="prep" class="d-emoji" alt="prep" src="https://cdn.discordapp.com/emojis/535541258546970624.png?v=1">, and so on.
 
-*Note: this is elaborated on in much more detail in [#auto-attacks](../miscellaneous-information/auto-attacks.md)*
+*Note: this is elaborated on in much more detail in [#auto-attacks](../../miscellaneous-information/auto-attacks)*
 
 
 ## Switching Weapons during Detonate (Courtesy of #Keny)

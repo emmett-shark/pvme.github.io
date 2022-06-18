@@ -9,7 +9,7 @@
 **^^Introduction^^**
 
 
-The Raptor mobs are 4 level 96 <img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> mobs, assignable by masters Kuradal, Morvran and Laniakea. These mobs include Acheron Mammoths, Camel Warriors, Living Wyverns and Ripper Demons, where the first 3 will be broken down below, and Ripper demons in [#ripper-demon](../slayer/ripper-demon.md). These creatures are different to other slayer mobs, having several mechanics and dealing large damage, and offering good XP and drops in return.
+The Raptor mobs are 4 level 96 <img title="slayer" class="d-emoji" alt="slayer" src="https://cdn.discordapp.com/emojis/797896049548066857.png?v=1"> mobs, assignable by masters Kuradal, Morvran and Laniakea. These mobs include Acheron Mammoths, Camel Warriors, Living Wyverns and Ripper Demons, where the first 3 will be broken down below, and Ripper demons in [#ripper-demon](../../slayer/ripper-demon). These creatures are different to other slayer mobs, having several mechanics and dealing large damage, and offering good XP and drops in return.
 
 
 ## Camel Warriors

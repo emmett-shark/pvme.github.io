@@ -15,7 +15,7 @@ Solak is an anima guardian, enslaved by the dark elf Erethdor to siphon energy f
 
 
 
-This channel is intended to be the overall guide to the Solak bossfight, listed below are the complete overview of each mechanic, the recommended methods of dealing with them, advanced mechanics for players more comfortable with the fight, a guide to hybriding, realming, and benchmarks for the boss fight. The [#solak-range](../solak/solak-range.md), [#solak-range-brid](../solak/solak-range-brid.md) and [#solak-magic-brid](../solak/solak-magic-brid.md) channels contain optimal rotations for those strategies.
+This channel is intended to be the overall guide to the Solak bossfight, listed below are the complete overview of each mechanic, the recommended methods of dealing with them, advanced mechanics for players more comfortable with the fight, a guide to hybriding, realming, and benchmarks for the boss fight. The [#solak-range](../../solak/solak-range), [#solak-range-brid](../../solak/solak-range-brid) and [#solak-magic-brid](../../solak/solak-magic-brid) channels contain optimal rotations for those strategies.
 
 
 **^^General Overview^^**
@@ -509,7 +509,7 @@ Erethdor is the Elf controlling Solak's mind, and is a secondary mechanic for th
 
 ⬥ Up to 2 players can enter the Mind Realm at once, regardless of teamsize.
 
-More advanced players will require less ventures into the Mind Realm in order to kill Erethdor, as in duo they will aim to kill him in 1 "cycle". Rotations for both melee and range Elf kills can be found in [#solak-range-brid](../solak/solak-range-brid.md) and [#solak-magic-brid](../solak/solak-magic-brid.md).
+More advanced players will require less ventures into the Mind Realm in order to kill Erethdor, as in duo they will aim to kill him in 1 "cycle". Rotations for both melee and range Elf kills can be found in [#solak-range-brid](../../solak/solak-range-brid) and [#solak-magic-brid](../../solak/solak-magic-brid).
 
 
 ## Phase 4

@@ -8,7 +8,7 @@
 ## Revolution Bars and General Background Knowledge
 
 
-⬥ For general PvM terminology, DPM tips, and revolution bars, see [#dpm-advice-faq](../dpm-advice/dpm-advice-faq.md)
+⬥ For general PvM terminology, DPM tips, and revolution bars, see [#dpm-advice-faq](../../dpm-advice/dpm-advice-faq)
 
 
 ## Ability Prioritizations & Building a Rotation
@@ -492,7 +492,7 @@
 
 **^^Special Attacks^^**
 
-*Note: All Special Attacks have an inherent cooldown when doing back-to-back special attacks, this is discussed in [#ability-information](../miscellaneous-information/ability-information.md)*
+*Note: All Special Attacks have an inherent cooldown when doing back-to-back special attacks, this is discussed in [#ability-information](../../miscellaneous-information/ability-information)*
 
 
 ⬥ **Ek-Zekkil** <img title="zekkil" class="d-emoji" alt="zekkil" src="https://cdn.discordapp.com/emojis/903244090953588787.png?v=1">
@@ -1345,7 +1345,7 @@ T33: Ability + Zerk ends
 
 ⬥ ‎ ‎As you can see in the above table, by using a 5TAA it was possible to get an ability on the last tick of <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1">, this then allows any ability to hit outside of <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1"> and thus get both <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1"> and Berserker Aura <img title="berserker" class="d-emoji" alt="berserker" src="https://cdn.discordapp.com/emojis/643505116347105290.png?v=1"> damage modifiers
 
-*Note: You can read more on this interaction in [#mechanics](../miscellaneous-information/mechanics.md)*
+*Note: You can read more on this interaction in [#mechanics](../../miscellaneous-information/mechanics)*
 
 
 

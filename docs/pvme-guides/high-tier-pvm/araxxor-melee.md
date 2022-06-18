@@ -20,7 +20,7 @@
 
 ## Introduction
 
-This is an advanced guide which assumes a strong underlying knowledge of all mechanics and information presented in <a href="" class="inactiveLink">#unknown-channel</a>.
+This is an advanced guide which assumes a strong underlying knowledge of all mechanics and information presented in [#araxxor-basic](../../basic-guides/araxxor-basic).
 
 
 ## Preset

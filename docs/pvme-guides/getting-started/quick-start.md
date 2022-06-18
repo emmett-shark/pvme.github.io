@@ -90,7 +90,7 @@ Notes:
 
 ⬥ You do not have to strictly follow this should your budget not allow you to do so.
 
-⬥ Acquiring a charming imp as early as possible will save you a lot of hassle, however it is not required. If you wish to do that, then you should do the Elite Dungeons 1 token farming method. You can find a server dedicated to this in <a href="" class="inactiveLink">#affiliates</a> (EDTeams) or <a href="" class="inactiveLink">#deleted-channel</a>.
+⬥ Acquiring a charming imp as early as possible will save you a lot of hassle, however it is not required. If you wish to do that, then you should do the Elite Dungeons 1 token farming method. You can find a server dedicated to this in <a href="" class="inactiveLink">#affiliates</a> (EDTeams) or <a href="" class="inactiveLink">#unknown-channel</a>.
 
 ⬥ Constitution and Defence are not listed as they can be passively trained alongside the other combat styles.
 
@@ -343,7 +343,7 @@ Warbands is one of the best ways to cut the costs of Herblore, and is relatively
 ^^**General Quests for PvMing**^^
 
 
-⬥ For a breakdown of quests you should focus on getting done, read them over in [#permanent-unlocks](../upgrading-info/permanent-unlocks.md).
+⬥ For a breakdown of quests you should focus on getting done, read them over in [#permanent-unlocks](../../upgrading-info/permanent-unlocks).
 
 ⬥ Two quests worth mentioning are ^^**The Temple at Senntisten**^^ and ^^**Plague's End**^^. The first unlocks curses, which are basically stronger prayers. The second unlocks better overloads and combination potions.
 

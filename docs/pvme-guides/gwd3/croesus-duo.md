@@ -9,7 +9,7 @@
 **^^General Information^^**
 
 
-This guide assumes you are already familiar with the mechanics and the general concept of Croesus. If not, please read <a href="" class="inactiveLink">#unknown-channel</a>.
+This guide assumes you are already familiar with the mechanics and the general concept of Croesus. If not, please read [#croesus](../../gwd3/croesus).
 
 
 

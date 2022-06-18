@@ -106,7 +106,7 @@
 
 ⬥ These basic perks should be used in any general combat scenario as they are unlocked early and provide a substantial boost to DPS
 
- ‎ ‎ ‎ ‎• Note: Check [#perks](../getting-started/perks.md) to see updated basic perks with ancient invention.
+ ‎ ‎ ‎ ‎• Note: Check [#perks](../../getting-started/perks) to see updated basic perks with ancient invention.
 
  ‎ ‎ ‎ ‎• Priority: `High`
 
@@ -197,7 +197,7 @@
 
  ‎ ‎ ‎ ‎• Priority: `High`
 
- ‎ ‎ ‎ ‎• Bigger upgrade than t92s without a special attack or passive, as well as the Staff of Sliske <img title="Sos" class="d-emoji" alt="Sos" src="https://cdn.discordapp.com/emojis/626466320132734976.png?v=1">, should be prioritized after basic gear is obtained (see [#upgrade-order](../upgrading-info/upgrade-order.md))
+ ‎ ‎ ‎ ‎• Bigger upgrade than t92s without a special attack or passive, as well as the Staff of Sliske <img title="Sos" class="d-emoji" alt="Sos" src="https://cdn.discordapp.com/emojis/626466320132734976.png?v=1">, should be prioritized after basic gear is obtained (see [#upgrade-order](../../upgrading-info/upgrade-order))
 
 
 ## Archaeology Relics

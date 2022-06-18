@@ -19,7 +19,7 @@ Each Raksha kill is worth <img title="coins" class="d-emoji" alt="coins" src="ht
 
 
 
-This guide assumes you are already familiar with Raksha's mechanics, phasing, and attack rotations. If not, please read <a href="" class="inactiveLink">#unknown-channel</a>.
+This guide assumes you are already familiar with Raksha's mechanics, phasing, and attack rotations. If not, please read [#raksha-basic](../../basic-guides/raksha-basic).
 
 
 ## Tips for the Fight

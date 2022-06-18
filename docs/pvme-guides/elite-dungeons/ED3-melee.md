@@ -53,7 +53,7 @@ Solo - (180/10,000) ‎ ‎Duo - (90/10,000) ‎ ‎Trio - (60/10,000)
 
 
 
-⬥ Knowledge of <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1"> flicking, melee rotations and boss mechanics are presumed. Otherwise, visit [#dpm-advice-melee](../dpm-advice/dpm-advice-melee.md) or <a href="" class="inactiveLink">#unknown-channel</a> as needed.
+⬥ Knowledge of <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1"> flicking, melee rotations and boss mechanics are presumed. Otherwise, visit [#dpm-advice-melee](../../dpm-advice/dpm-advice-melee) or [#shadow-reef-melee-basic](../../basic-guides/shadow-reef-melee-basic) as needed.
 
 
 ## Preset

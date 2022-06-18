@@ -1,7 +1,7 @@
 # Perks
 **^^Best PvM/Slayer Perks and Their Cheap Counterparts^^ (Courtesy of #Hoobs and #Wh)**
 
-This channel states the combos and positions of perks on gear, for explanations of the perks check out [#perk-info](../getting-started/perk-info.md).
+This channel states the combos and positions of perks on gear, for explanations of the perks check out [#perk-info](../../getting-started/perk-info).
 
 
 ## Starter Perks
@@ -352,7 +352,7 @@ Can be used in replacement of Biting 4, until you're able to afford the latter. 
 
 ^^**General Perks for Slayer**^^
 
-*Note: These perks use common armour gizmos. Check out PvME's slayer guide in [#overview-of-slayer](../slayer/overview-of-slayer.md).*
+*Note: These perks use common armour gizmos. Check out PvME's slayer guide in [#overview-of-slayer](../../slayer/overview-of-slayer).*
 
 ⬥ **Dragon Slayer Undead Slayer:** 1 <img title="baseparts" class="d-emoji" alt="baseparts" src="https://cdn.discordapp.com/emojis/583434183448330270.png?v=1"> 1 <img title="dragonfirecomp" class="d-emoji" alt="dragonfirecomp" src="https://cdn.discordapp.com/emojis/583428397439516673.png?v=1"> 1 <img title="livingcomp" class="d-emoji" alt="livingcomp" src="https://cdn.discordapp.com/emojis/583434584679776256.png?v=1"> 1 <img title="enhancingcomp" class="d-emoji" alt="enhancingcomp" src="https://cdn.discordapp.com/emojis/583434584113283072.png?v=1"> 1 <img title="undeadcomp" class="d-emoji" alt="undeadcomp" src="https://cdn.discordapp.com/emojis/583428397397573659.png?v=1"> `(Guaranteed | Must be input in same order as displayed)`
 

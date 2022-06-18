@@ -15,7 +15,7 @@ Vorago is a high level group boss. He boasts high defense and complex mechanics 
 
 
 
-This guide is only an introduction + mechanics guide. For DPS rotations, see [#vorago-rotations](../vorago/vorago-rotations.md)
+This guide is only an introduction + mechanics guide. For DPS rotations, see [#vorago-rotations](../../vorago/vorago-rotations)
 
 
 ## Drops
@@ -519,7 +519,7 @@ All three combat styles are viable at Vorago.
 
  ‎ ‎ ‎ ‎• Referred to as "solo lure"
 
- ‎ ‎ ‎ ‎• See [#vorago-tips-and-tricks](../vorago/vorago-tips-and-tricks.md) for a detailed explanation
+ ‎ ‎ ‎ ‎• See [#vorago-tips-and-tricks](../../vorago/vorago-tips-and-tricks) for a detailed explanation
 
  ‎ ‎ ‎ ‎• Not used by mage and ranged Base Tanks due to <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1">/<img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> area limitation
 
@@ -837,7 +837,7 @@ At the start of every Reflect, Vorago will spawn a Gravity Orb.
 
 
 
-⬥ See [#vorago-tips-and-tricks](../vorago/vorago-tips-and-tricks.md) for instructions on how to recenter Vorago if he moves from Base Spot.
+⬥ See [#vorago-tips-and-tricks](../../vorago/vorago-tips-and-tricks) for instructions on how to recenter Vorago if he moves from Base Spot.
 
 
 ^^**Red Bomb Notes**^^
@@ -1969,7 +1969,7 @@ New special arena: **Pushing Vorago**
 
  ‎ ‎ ‎ ‎• Commonly referred to as "push".
 
- ‎ ‎ ‎ ‎• The damage threshold is more complex than this. For a detailed explanation, see [#vorago-tips-and-tricks](../vorago/vorago-tips-and-tricks.md).
+ ‎ ‎ ‎ ‎• The damage threshold is more complex than this. For a detailed explanation, see [#vorago-tips-and-tricks](../../vorago/vorago-tips-and-tricks).
 
 
 ⬥ Vorago will push players backward by dealing damage to the team.
@@ -2100,7 +2100,7 @@ New special arena: **Pushing Vorago**
 
 
 
-⬥ While <img title="debil" class="d-emoji" alt="debil" src="https://cdn.discordapp.com/emojis/535541278264393729.png?v=1"> can mitigate some push back, players are highly recommended avoiding it. See [#vorago-tips-and-tricks](../vorago/vorago-tips-and-tricks.md) for a detailed explanation.
+⬥ While <img title="debil" class="d-emoji" alt="debil" src="https://cdn.discordapp.com/emojis/535541278264393729.png?v=1"> can mitigate some push back, players are highly recommended avoiding it. See [#vorago-tips-and-tricks](../../vorago/vorago-tips-and-tricks) for a detailed explanation.
 
 
 

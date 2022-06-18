@@ -31,7 +31,7 @@ This is a generalized order which assumes a starting point of T70 weapons and ar
 
 
 
-For further information on each upgrade check the relevant section in [#armour-and-weapons](../upgrading-info/armour-and-weapons.md), [#perks](../getting-started/perks.md) and [#perk-info](../getting-started/perk-info.md), [#unlockable-abilities](../upgrading-info/unlockable-abilities.md), or [#eof-specs](../miscellaneous-information/eof-specs.md).
+For further information on each upgrade check the relevant section in [#armour-and-weapons](../../upgrading-info/armour-and-weapons), [#perks](../../getting-started/perks) and [#perk-info](../../getting-started/perk-info), [#unlockable-abilities](../../upgrading-info/unlockable-abilities), or [#eof-specs](../../miscellaneous-information/eof-specs).
 
 
 
@@ -59,11 +59,11 @@ If you would like specialized advice, ask in <a href="" class="inactiveLink">#pv
 
 ⬥ Entry Level Perks <img title="ancientweapongizmo" class="d-emoji" alt="ancientweapongizmo" src="https://cdn.discordapp.com/emojis/697405383752548382.png?v=1"> <img title="ancientarmourgizmo" class="d-emoji" alt="ancientarmourgizmo" src="https://cdn.discordapp.com/emojis/697405383769194516.png?v=1">
 
- ‎ ‎ ‎ ‎• Refer to [#perks](../getting-started/perks.md)
+ ‎ ‎ ‎ ‎• Refer to [#perks](../../getting-started/perks)
 
 ⬥ Greater Concentrated Blast <img title="gconc" class="d-emoji" alt="gconc" src="https://cdn.discordapp.com/emojis/869285393223254107.png?v=1"> + Wand of the Cywir elders + Orb of the Cywir elders <img title="cywirwand" class="d-emoji" alt="cywirwand" src="https://cdn.discordapp.com/emojis/643161591571021824.png?v=1"> <img title="cywirorb" class="d-emoji" alt="cywirorb" src="https://cdn.discordapp.com/emojis/643161591210049556.png?v=1"> with Entry Level Perks <img title="ancientweapongizmo" class="d-emoji" alt="ancientweapongizmo" src="https://cdn.discordapp.com/emojis/697405383752548382.png?v=1">
 
- ‎ ‎ ‎ ‎• Strongly recommended to learn 4TAA at this stage, check [#dpm-advice-mage](../dpm-advice/dpm-advice-mage.md) for details
+ ‎ ‎ ‎ ‎• Strongly recommended to learn 4TAA at this stage, check [#dpm-advice-mage](../../dpm-advice/dpm-advice-mage) for details
 
 ⬥ Planted Feet <img title="pf" class="d-emoji" alt="pf" src="https://cdn.discordapp.com/emojis/689501925770919981.png?v=1">
 
@@ -160,7 +160,7 @@ This is a generalized order which assumes a starting point of T70 weapons and ar
 
 
 
-For further information on each upgrade check the relevant section in [#armour-and-weapons](../upgrading-info/armour-and-weapons.md), [#perks](../getting-started/perks.md) and [#perk-info](../getting-started/perk-info.md), [#unlockable-abilities](../upgrading-info/unlockable-abilities.md), or [#eof-specs](../miscellaneous-information/eof-specs.md).
+For further information on each upgrade check the relevant section in [#armour-and-weapons](../../upgrading-info/armour-and-weapons), [#perks](../../getting-started/perks) and [#perk-info](../../getting-started/perk-info), [#unlockable-abilities](../../upgrading-info/unlockable-abilities), or [#eof-specs](../../miscellaneous-information/eof-specs).
 
 
 
@@ -188,7 +188,7 @@ If you would like specialized advice, ask in <a href="" class="inactiveLink">#pv
 
 ⬥ Entry Level Perks <img title="ancientweapongizmo" class="d-emoji" alt="ancientweapongizmo" src="https://cdn.discordapp.com/emojis/697405383752548382.png?v=1"> <img title="ancientarmourgizmo" class="d-emoji" alt="ancientarmourgizmo" src="https://cdn.discordapp.com/emojis/697405383769194516.png?v=1">
 
- ‎ ‎ ‎ ‎• Refer to [#perks](../getting-started/perks.md)
+ ‎ ‎ ‎ ‎• Refer to [#perks](../../getting-started/perks)
 
 ⬥ Corruption Shot <img title="corruptshot" class="d-emoji" alt="corruptshot" src="https://cdn.discordapp.com/emojis/535541306294796299.png?v=1">
 
@@ -291,7 +291,7 @@ This is a generalized order which assumes a starting point of T70 weapons and ar
 
 
 
-For further information on each upgrade check the relevant section in [#armour-and-weapons](../upgrading-info/armour-and-weapons.md), [#perks](../getting-started/perks.md) and [#perk-info](../getting-started/perk-info.md), [#unlockable-abilities](../upgrading-info/unlockable-abilities.md), or [#eof-specs](../miscellaneous-information/eof-specs.md).
+For further information on each upgrade check the relevant section in [#armour-and-weapons](../../upgrading-info/armour-and-weapons), [#perks](../../getting-started/perks) and [#perk-info](../../getting-started/perk-info), [#unlockable-abilities](../../upgrading-info/unlockable-abilities), or [#eof-specs](../../miscellaneous-information/eof-specs).
 
 
 
@@ -324,7 +324,7 @@ If you would like specialized advice, ask in <a href="" class="inactiveLink">#pv
 
 ⬥ Entry Level Perks <img title="ancientweapongizmo" class="d-emoji" alt="ancientweapongizmo" src="https://cdn.discordapp.com/emojis/697405383752548382.png?v=1"> <img title="ancientarmourgizmo" class="d-emoji" alt="ancientarmourgizmo" src="https://cdn.discordapp.com/emojis/697405383769194516.png?v=1">
 
- ‎ ‎ ‎ ‎• Refer to [#perks](../getting-started/perks.md)
+ ‎ ‎ ‎ ‎• Refer to [#perks](../../getting-started/perks)
 
 ⬥ T90 Armour + Gloves of Passage <img title="masterworkbody" class="d-emoji" alt="masterworkbody" src="https://cdn.discordapp.com/emojis/643847056527458324.png?v=1"> <img title="Glovesofpassage" class="d-emoji" alt="Glovesofpassage" src="https://cdn.discordapp.com/emojis/556588694862037012.png?v=1">
 

@@ -67,7 +67,7 @@
 ## Disclaimer
 
 
-This guide is made with the idea of getting started at Telos, and does not cover meta strategies, for that refer to <a href="" class="inactiveLink">#unknown-channel</a> or [#telos-1k-plus-magic](../telos/telos-1k-plus-magic.md).
+This guide is made with the idea of getting started at Telos, and does not cover meta strategies, for that refer to [#telos-magic-fsoa](../../telos/telos-magic-fsoa) or [#telos-magic-no-fsoa](../../telos/telos-magic-no-fsoa).
 
 
 ## Enrage Mechanics

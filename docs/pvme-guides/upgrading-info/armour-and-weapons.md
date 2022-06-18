@@ -1929,7 +1929,7 @@ Old rune pouch setup: <https://i.imgur.com/EnZO06K.png>
 
 
 
-*Note: See* [#eof-specs](../miscellaneous-information/eof-specs.md) *for other possible situational special attacks.*
+*Note: See* [#eof-specs](../../miscellaneous-information/eof-specs) *for other possible situational special attacks.*
 
 
 ## Banking Preset

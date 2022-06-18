@@ -248,7 +248,7 @@ In RuneScape PvM, the meta at the time of writing is about pushing out as much d
 ⬥ There is no easy "trick" to skip past the practice. It takes time to learn full manual so stick with it!
 
 
-⬥ More information about the full manual transition available here: [#revo-to-full-manual](../getting-started/revo-to-full-manual.md)
+⬥ More information about the full manual transition available here: [#revo-to-full-manual](../../getting-started/revo-to-full-manual)
 
 
 ## ‎ ‎Common Mistakes and How to Fix Them
@@ -331,7 +331,7 @@ The following list notes some of the common mistakes made by players in PvM. It 
 
 **^^How to Fix^^**
 
-⬥ Take a look in [#dpm-advice-mage](../dpm-advice/dpm-advice-mage.md), [#dpm-advice-range](../dpm-advice/dpm-advice-range.md), and [#dpm-advice-melee](../dpm-advice/dpm-advice-melee.md) to get an idea of how to prioritize each ability under certain conditions
+⬥ Take a look in [#dpm-advice-mage](../../dpm-advice/dpm-advice-mage), [#dpm-advice-range](../../dpm-advice/dpm-advice-range), and [#dpm-advice-melee](../../dpm-advice/dpm-advice-melee) to get an idea of how to prioritize each ability under certain conditions
 
  ‎ ‎ ‎ ‎• The numbers behind these can be found here: <https://docs.google.com/spreadsheets/d/1OetEUz4xU5sg7pqmJBkkafmZIye8qoPOXprUPGhin14/edit?usp=sharing>
 

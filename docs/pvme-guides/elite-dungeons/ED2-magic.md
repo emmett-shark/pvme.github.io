@@ -42,7 +42,7 @@ Each solo run of ED2 is worth <img title="coins" class="d-emoji" alt="coins" src
 
 ⬥ <img title="mob" class="d-emoji" alt="mob" src="https://cdn.discordapp.com/emojis/689501908628799488.png?v=1"> perk is assumed for all <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> and <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1">.
 
-⬥ When using <img title="magmatempesttarget" class="d-emoji" alt="magmatempesttarget" src="https://cdn.discordapp.com/emojis/924741973858996284.png?v=1"> defensive 2H autos are assumed, as per [#dpm-advice-mage](../dpm-advice/dpm-advice-mage.md).
+⬥ When using <img title="magmatempesttarget" class="d-emoji" alt="magmatempesttarget" src="https://cdn.discordapp.com/emojis/924741973858996284.png?v=1"> defensive 2H autos are assumed, as per [#dpm-advice-mage](../../dpm-advice/dpm-advice-mage).
 
 
 ## Presets

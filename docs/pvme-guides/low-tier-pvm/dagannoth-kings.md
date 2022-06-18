@@ -62,7 +62,7 @@ For maximum efficiency, bring all 3 styles, hybrid gear in every slot possible:
 
 *Note: The below strategy should work fine with good perks and Noxious Weapons <img title="noxstaff" class="d-emoji" alt="noxstaff" src="https://cdn.discordapp.com/emojis/513190159294922753.png?v=1"><img title="noxbow" class="d-emoji" alt="noxbow" src="https://cdn.discordapp.com/emojis/513190159425208342.png?v=1"><img title="noxscythe" class="d-emoji" alt="noxscythe" src="https://cdn.discordapp.com/emojis/513190159341322240.png?v=1"> if lacking the BiS weaponry, however a Spear of Annihilation <img title="mwspear" class="d-emoji" alt="mwspear" src="https://cdn.discordapp.com/emojis/694566917456789554.png?v=1"> is still highly recommended for the Dagannoth Supreme rotation*
 
-*Note 2: If you do not own a hybrid set of armour, you can bring Power Armour for each style and swap between them (this is higher effort, but also technically faster). For more detail on armour go to the **Armour** section of [#armour-and-weapons](../upgrading-info/armour-and-weapons.md)*
+*Note 2: If you do not own a hybrid set of armour, you can bring Power Armour for each style and swap between them (this is higher effort, but also technically faster). For more detail on armour go to the **Armour** section of [#armour-and-weapons](../../upgrading-info/armour-and-weapons)*
 
 
 

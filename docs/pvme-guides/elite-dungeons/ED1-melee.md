@@ -1061,7 +1061,7 @@ After killing the second crystal, build to ≥ 92% adrenaline and use <img title
 
 **^^Notes^^**:
 
-⬥ Stalling might be tricky to execute but it increases drastically the burst damage output of the rotation. If you are struggling with it, check out the Stalling section in [#mechanics](../miscellaneous-information/mechanics.md).
+⬥ Stalling might be tricky to execute but it increases drastically the burst damage output of the rotation. If you are struggling with it, check out the Stalling section in [#mechanics](../../miscellaneous-information/mechanics).
 
 ⬥ If, after using Greater Flurry <img title="gflurry" class="d-emoji" alt="gflurry" src="https://cdn.discordapp.com/emojis/535532879283879977.png?v=1">, adrenaline ≥ 45%, use Dragon Claws EoF Spec <img title="dragonclaw" class="d-emoji" alt="dragonclaw" src="https://cdn.discordapp.com/emojis/779048041088024606.png?v=1"><img title="dragonclawoh" class="d-emoji" alt="dragonclawoh" src="https://cdn.discordapp.com/emojis/779048040865726485.png?v=1"> <img title="eofspec" class="d-emoji" alt="eofspec" src="https://cdn.discordapp.com/emojis/746403211908481184.png?v=1"> right away.
 

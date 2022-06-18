@@ -209,7 +209,7 @@ Gizmos are the main focus of invention. They allow you to put perks on your weap
 
 
 
-⬥ You can find information on the effect of relevant PvM perks in [#perk-info](../getting-started/perk-info.md) and perk setups, costs and gizmo layout required to make those perks in [#perks](../getting-started/perks.md).
+⬥ You can find information on the effect of relevant PvM perks in [#perk-info](../../getting-started/perk-info) and perk setups, costs and gizmo layout required to make those perks in [#perks](../../getting-started/perks).
 
 
 

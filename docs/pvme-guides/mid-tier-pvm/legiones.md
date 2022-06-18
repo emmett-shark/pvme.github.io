@@ -271,7 +271,7 @@ This method can result in around 240-250 KPH and around 200 KPH at Quartus
 
 *Note: Hydrix bolts <img title="HydrixBakri" class="d-emoji" alt="HydrixBakri" src="https://cdn.discordapp.com/emojis/550834403136503822.png?v=1"> are used as a switch in combination with Greater Ricochet <img title="gricocaroming" class="d-emoji" alt="gricocaroming" src="https://cdn.discordapp.com/emojis/867678153966878740.png?v=1"> for when you're low on adrenaline.*
 
-*Note also: The generic armour perks in [#perks](../getting-started/perks.md) are fine, however if planning to farm for a long time, Enhanced Devoted 4 can be swapped out for the Lucky or Absorbative perks at relatively low cost as you'll be praying Soul Split <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1"> anyway - You can easily combo Lucky 6 with Mobile if not already comboed with another perk.*
+*Note also: The generic armour perks in [#perks](../../getting-started/perks) are fine, however if planning to farm for a long time, Enhanced Devoted 4 can be swapped out for the Lucky or Absorbative perks at relatively low cost as you'll be praying Soul Split <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1"> anyway - You can easily combo Lucky 6 with Mobile if not already comboed with another perk.*
 
 
 **^^Rotations^^**

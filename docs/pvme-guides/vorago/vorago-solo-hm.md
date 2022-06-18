@@ -17,7 +17,7 @@
 
  ‎ ‎ ‎ ‎• A strong knowledge of solo normal mode P5 will translate well over to hardmode and save time learning.
 
-⬥ It is recommended to read <a href="" class="inactiveLink">#unknown-channel</a> first for base knowledge of solo Vorago.
+⬥ It is recommended to read [#vorago-solo](../../vorago/vorago-solo) first for base knowledge of solo Vorago.
 
 ⬥ This guide will focus primarily on getting a first kill. So, with experience, some strategies can be improved to be faster.
 
