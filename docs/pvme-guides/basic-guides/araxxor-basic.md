@@ -167,72 +167,51 @@ Drops include components for three level 90 two-handed weapons, one for each com
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Special Attacks</strong>
-
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Cleave</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor pulls you in and cleaves dealing heavy damage. <a href="https://i.imgur.com/96lukzA.mp4">Example</a>
     • Run away.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Cocoon</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor wraps you in a cocoon dealing constant damage. <a href="https://i.imgur.com/yR1K9t6.mp4">Example</a>
     • Spam left-click anywhere on your screen to free yourself.
-    • &lt;:anti:535541306475151390> / &lt;:freedom:535541258240786434> beforehand reduces the time it takes to get free.
+    • <img title="anti" class="d-emoji" alt="anti" src="https://cdn.discordapp.com/emojis/535541306475151390.png?v=1"> / <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1"> beforehand reduces the time it takes to get free.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Web Shield</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor covers himself in a web, and any damage dealt during this time is reflected back to you. <a href="https://i.imgur.com/vbEApc1.mp4">Example</a>
     • Stop attacking Araxxor and wait for the special to end.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Egg Bomb</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor spawns a group of eggs, and fires a slow moving projectile towards you that explodes in a 4x4 radius. <a href="https://i.imgur.com/6z3wvTk.mp4">Example</a>
     • Stand top of the eggs and wait for it to explode.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Minion Spawn</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor spawns 5 spiders, one of which is a special one: a <strong>pulsing spider</strong> which rapidly heals Araxxor, or a <strong>mirrorback spider</strong> which reflects damage dealt to Araxxor back to you. <a href="https://i.imgur.com/Nf7BooD.mp4">Example</a>
     • Stop attacking Araxxor until the special spider is killed.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Instakill Spider</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxor sends out a green blob marking the ground, from which a spider spawns and chases you. <a href="https://i.imgur.com/yMhi3Jr.mp4">Example</a>
     • Making contact with the spider results in instant death.
-    • Run away using &lt;:surge:535533810004262912> / &lt;:bd:535532854281764884> and wait for it to explode on its own.
+    • Run away using <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> / <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> and wait for it to explode on its own.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Light Spots</strong>
-
 </div><div class="embed-field-value markup" >⬥ Darkness covers the room and one lit up spot appears.
     • Stand in the light to avoid taking damage
-    • Utilize &lt;:surge:535533810004262912> + &lt;:bd:535532854281764884>
+    • Utilize <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> + <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1">
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Acidic Spider</strong>
-
 </div><div class="embed-field-value markup" >⬥ Looks like the Instakill spider but does not have a bar that fills over its head.
     • Harmless and best left alone.
     • Exclusive to phase 3 when middle path is open.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Acid Absorb</strong>
-
 </div><div class="embed-field-value markup" >⬥ Araxxi absorbs leftover acid from phase 3, increasing her enrage.
     • Exclusive to phase 4 when middle path is open.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Acid Core</strong>
-
 </div><div class="embed-field-value markup" >⬥ Excluse to phase 4, at 25k HP, Araxxi drains 50% of your adrenaline and spawns a blob that bounces around the room and deals heavy damage if it touches you.
     • If it hits you, move 1 tile then stand still.
-
 </div></div></div>
 </div>
 

@@ -132,61 +132,45 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Mechanics</strong>
-
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Attack Rotation</strong>
-
 </div><div class="embed-field-value markup" >⬥ Special attacks rotate randombly with 3 actions in between.
 ⬥ Actions include:
     • Auto attack, Resonance, Freedom, Siphon, and Dashing.
     • The action counter resets to 3 at 150k, 100k, and 50k hitpoints.
 ⬥ Some actions can occur in rapid succession which makes his special attack timings relatively unpredictable.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>150k HP</strong>
-
 </div><div class="embed-field-value markup" >⬥ The Soul Obelisk lowers the player's Constitution level (and therefore their maximum lifepoints) <a href="https://imgur.com/o8hitZZ.png">Example</a>
     • This can cause food to heal less if your level falls below a certain amount.
-    • Saradomin Brews &lt;:Brew:565726489400573962> and Guthix Rests &lt;:grest:689530593901412578> are exempt from this effect.
+    • Saradomin Brews <img title="Brew" class="d-emoji" alt="Brew" src="https://cdn.discordapp.com/emojis/565726489400573962.png?v=1"> and Guthix Rests <img title="grest" class="d-emoji" alt="grest" src="https://cdn.discordapp.com/emojis/689530593901412578.png?v=1"> are exempt from this effect.
     • 3 Constitution levels are lost each time the effect triggers.
-⬥ Can be counteracted by drinking a Super Restore &lt;:restore:642708657825644554> or damaging the obelisk (not recommended).
+⬥ Can be counteracted by drinking a Super Restore <img title="restore" class="d-emoji" alt="restore" src="https://cdn.discordapp.com/emojis/642708657825644554.png?v=1"> or damaging the obelisk (not recommended).
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>100k HP</strong>
-
 </div><div class="embed-field-value markup" >⬥ Another soul obelisk spawns to the south, which deals 600 damage and raises the player's corruption level by 4% every 5-7 seconds. <a href="https://imgur.com/D3nIbDG.png">Example</a>
     • Corruption causes the player's damage dealt and taken to increase by the same percentage.
     • Caps at 50%, and resets down to 25% after every kill.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>50k HP</strong>
-
 </div><div class="embed-field-value markup" >⬥ The Magister goes berserk:
     • Increases his damage output while losing some defence.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Resonance</strong>
-
 </div><div class="embed-field-value markup" >⬥ Magister will heal for the damage you would have dealt. <a href="https://imgur.com/HcUrNlA.mp4">Example</a>
     • It is best to use a bleed or a weak ability to minimise his healing.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Freedom</strong>
-
 </div><div class="embed-field-value markup" >⬥ Magister cannot freedom while stunned, he will only freedom when he is bound. Should you bind him before or during a bleed, he can clear it. <a href="https://imgur.com/GkerL8m.mp4">Example</a>
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Siphon</strong>
-
 </div><div class="embed-field-value markup" >⬥ When the player is at 70%+ adrenaline, the Magister can drain some of their adrenaline. <a href="https://imgur.com/8h2rcWI.mp4">Example</a>
     • Aim to stay below 70% adrenaline during ultimates.
     • Be wary of adrenaline drain prior to ultimates.
 
-
 <em>Note: The three abilities mentioned above replace an auto attack and instead delay Magister's next auto attack by only 0.6s.</em>
 ​
-
 </div></div></div>
 </div>
 
@@ -222,73 +206,56 @@ High end melee with a Vampyrism Scrimshaw can utilize a Blood Reaver <img title=
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Specials</strong>
-
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Power Blast</strong>
-
 </div><div class="embed-field-value markup" >⬥ The Magister slams his staff into the ground, sending out a red lightning attack. <a href="https://imgur.com/S1fJmLr.mp4">Example</a>
 ⬥ Deals ~2300 ranged damage (100% accurate) and can be dealt with by:
-    • Deflect Missiles &lt;:DeflectRange:544195488317046812> / Disruption Shield &lt;:disrupt:535614336207552523>
-    • Resonance &lt;:res:535541258844635148>
+    • Deflect Missiles <img title="DeflectRange" class="d-emoji" alt="DeflectRange" src="https://cdn.discordapp.com/emojis/544195488317046812.png?v=1"> / Disruption Shield <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1">
+    • Resonance <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Barge</strong>
-
 </div><div class="embed-field-value markup" >⬥ Signaled by the voice line <strong>'You dare fight me?''</strong>
 ⬥ After a 1.8s delay, the Magister will barge to 1 sq south of player. <a href="https://imgur.com/ier7amn.mp4">Example</a>
     • Deals ~2300 melee damage in a 5x5 area and disables protection prayers for a small duration.
     • Walk one tile north to avoid this.
-    • Alternatively use &lt;:disrupt:535614336207552523> / &lt;:res:535541258844635148> , then move a tile away to avoid being md.
+    • Alternatively use <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> / <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1"> , then move a tile away to avoid being md.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Stand Still</strong>
-
 </div><div class="embed-field-value markup" >⬥ Only occurs if the player is md of Magister after his barge.
 ⬥ The Magister will yell <strong>'Stand still!''</strong> and stun the player for 4.2s, dealing ~2300 melee damage before dashing away in a random direction.
-    • Use Freedom &lt;:freedom:535541258240786434> + Deflect Magic &lt;:DeflectMage:544195487926845462>.
+    • Use Freedom <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1"> + Deflect Magic <img title="DeflectMage" class="d-emoji" alt="DeflectMage" src="https://cdn.discordapp.com/emojis/544195487926845462.png?v=1">.
     • Use a halberd range weapon if meleeing.
-<em>Note: This mechanic replaces the <strong>Barge</strong> mechanic while the player is in melee distance.</em>
+<em>Note: This mechanic replaces the </em><em>Barge</em><em> mechanic while the player is in melee distance.</em>
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Dashing</strong>
-
 </div><div class="embed-field-value markup" >⬥ Occurs during his <strong>Stand Still</strong> special attack.
 ⬥ Magister will dash up to 8 tiles away from the starting pillar if he is too close to it
     • This usually happens after his <strong>Barge</strong> special attack on a player stood close to the starting pillar.
 ⬥ The Magister can chain these previous 3 actions together.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Unstable Mixture</strong>
-
 </div><div class="embed-field-value markup" >⬥ A bomb is thrown in the general vicinity of the player. <a href="https://imgur.com/EqOep9I.mp4">Example</a>
 ⬥ It explodes after the bar above it fills, dealing typeless damage in a 5x5 area to whatever is near it.
     • Deals 4000 damage to the player and the Magister and 2000 damage to the player's familiar.
     • Can be clicked to kick away.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Asphyxiate</strong>
-
 </div><div class="embed-field-value markup" >⬥ The Magister will asphyxiate the player, dealing ~1500-3000 damage for 3 hits and healing off the base damage. <a href="https://imgur.com/WTSVZKC.mp4">Example</a>
     • This ability does not stun and can be dealt with by moving or by using a melee threshold.
     • The Magister will continue auto attacking mid asphyxiate if stunned.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Restore Me</strong>
-
 </div><div class="embed-field-value markup" >⬥ The Magister will regain several thousand lifepoints. <a href="https://imgur.com/3siuSRJ.mp4">Example</a>
 ⬥ More likely to use this after falling below 50k lifepoints and it is often the first special attack he will use at that point.
     • Can be avoided by stun-locking him, dealing damage and killing him before he can spec.
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Minions</strong>
-
 </div><div class="embed-field-value markup" >⬥ Only happens once the Magister has performed a sufficient number of special attacks beforehand. <a href="https://imgur.com/4rbODea.mp4">Example</a>
     • Two Soul Devourer minions spawn using random combat styles.
     • They have 10,000 HP and remain until either they die or the fight ends.
     • It is recommended to kill them unless the fight is at least halfway over.
 ​
-
 </div></div></div>
 </div>
 
@@ -416,29 +383,26 @@ Weapon choice can vary, but will affect how afk/fast kills can be. They are list
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Mandatory AFK Requirements</strong>
-
 </div>
 <div class="embed-description markup" >This setup should reliably allow you to semi-afk the Magister.
 The following are required or this method will not work:
 
-
 ⬥ Stand next to the obelisk
-⬥ Adrenaline retention &lt;:persistentrage:739965637056659567> &lt;:adrenurn:656426717413507074> if you are not starting kills ASAP
-⬥ Death Ward Relic &lt;:deathward:697808774068699286>
-⬥ Greater Ricochet &lt;:grico:787904334812807238> and Salt the Wound &lt;:stw:535541259109138463>
-⬥ Caroming 4 &lt;:caroming4:791281588792590336>
-⬥ Powder of Penance &lt;:powderofpenance:928221126360969226> (Used before the hour)
-⬥ Soulsplit &lt;:soulsplit:615613924506599497>
-⬥ Anguish &lt;:anguish:583429936665198592> or Desolation &lt;:Desolation:513190159018098713>
-⬥ Elder Overload &lt;:elderovlsalve:648976643687317532>
-⬥ Weapon poison +++ &lt;:weppoison:689525476158472288>
-⬥ Cinderbane Gloves &lt;:Cinderbanes:513190158355660812>
+⬥ Adrenaline retention <img title="persistentrage" class="d-emoji" alt="persistentrage" src="https://cdn.discordapp.com/emojis/739965637056659567.png?v=1"> <img title="adrenurn" class="d-emoji" alt="adrenurn" src="https://cdn.discordapp.com/emojis/656426717413507074.png?v=1"> if you are not starting kills ASAP
+⬥ Death Ward Relic <img title="deathward" class="d-emoji" alt="deathward" src="https://cdn.discordapp.com/emojis/697808774068699286.png?v=1">
+⬥ Greater Ricochet <img title="grico" class="d-emoji" alt="grico" src="https://cdn.discordapp.com/emojis/787904334812807238.png?v=1"> and Salt the Wound <img title="stw" class="d-emoji" alt="stw" src="https://cdn.discordapp.com/emojis/535541259109138463.png?v=1">
+⬥ Caroming 4 <img title="caroming4" class="d-emoji" alt="caroming4" src="https://cdn.discordapp.com/emojis/791281588792590336.png?v=1">
+⬥ Powder of Penance <img title="powderofpenance" class="d-emoji" alt="powderofpenance" src="https://cdn.discordapp.com/emojis/928221126360969226.png?v=1"> (Used before the hour)
+⬥ Soulsplit <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1">
+⬥ Anguish <img title="anguish" class="d-emoji" alt="anguish" src="https://cdn.discordapp.com/emojis/583429936665198592.png?v=1"> or Desolation <img title="Desolation" class="d-emoji" alt="Desolation" src="https://cdn.discordapp.com/emojis/513190159018098713.png?v=1">
+⬥ Elder Overload <img title="elderovlsalve" class="d-emoji" alt="elderovlsalve" src="https://cdn.discordapp.com/emojis/648976643687317532.png?v=1">
+⬥ Weapon poison +++ <img title="weppoison" class="d-emoji" alt="weppoison" src="https://cdn.discordapp.com/emojis/689525476158472288.png?v=1">
+⬥ Cinderbane Gloves <img title="Cinderbanes" class="d-emoji" alt="Cinderbanes" src="https://cdn.discordapp.com/emojis/513190158355660812.png?v=1">
 ⬥ Recommended Familiar:
-    • If using &lt;:sharp:643505377291534366>: &lt;:shadownihil:854475441946230855>
-    • If using &lt;:wyverncrossbow:580177522587729940> + &lt;:anguish:583429936665198592>: &lt;:shadownihil:854475441946230855>
-    • If using &lt;:ecb:615618531937222657> or &lt;:Desolation:513190159018098713>: &lt;:ripperpouch:703581275453128714> with scrolls
+    • If using <img title="sharp" class="d-emoji" alt="sharp" src="https://cdn.discordapp.com/emojis/643505377291534366.png?v=1">: <img title="shadownihil" class="d-emoji" alt="shadownihil" src="https://cdn.discordapp.com/emojis/854475441946230855.png?v=1">
+    • If using <img title="wyverncrossbow" class="d-emoji" alt="wyverncrossbow" src="https://cdn.discordapp.com/emojis/580177522587729940.png?v=1"> + <img title="anguish" class="d-emoji" alt="anguish" src="https://cdn.discordapp.com/emojis/583429936665198592.png?v=1">: <img title="shadownihil" class="d-emoji" alt="shadownihil" src="https://cdn.discordapp.com/emojis/854475441946230855.png?v=1">
+    • If using <img title="ecb" class="d-emoji" alt="ecb" src="https://cdn.discordapp.com/emojis/615618531937222657.png?v=1"> or <img title="Desolation" class="d-emoji" alt="Desolation" src="https://cdn.discordapp.com/emojis/513190159018098713.png?v=1">: <img title="ripperpouch" class="d-emoji" alt="ripperpouch" src="https://cdn.discordapp.com/emojis/703581275453128714.png?v=1"> with scrolls
 ⬥Auto-retaliate is on
-
 </div>
 
 </div>
@@ -446,7 +410,6 @@ The following are required or this method will not work:
 </div>
 
 <div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
-
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 
@@ -603,28 +566,25 @@ Weapon choice can vary, but will affect how afk/fast kills can be. They are list
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Mandatory AFK Requirements</strong>
-
 </div>
 <div class="embed-description markup" >This setup should reliably allow you to semi-afk the Magister.
 The following are required or this method will not work:
 
-
 ⬥ Stand next to the obelisk
-⬥ Adrenaline retention &lt;:persistentrage:739965637056659567> &lt;:adrenurn:656426717413507074> if you are not starting kills ASAP
-⬥ Death Ward Relic &lt;:deathward:697808774068699286>
-⬥ Greater Concentrated Blast &lt;:gconc:869285393223254107>
-⬥ Exsanguinate &lt;:exsanguinate:856635090745950258>
-⬥ Powder of Penance &lt;:powderofpenance:928221126360969226> (Used before the hour)
-⬥ Soulsplit &lt;:soulsplit:615613924506599497>
-⬥ Torment &lt;:torment:583429936958930964> / Affliction &lt;:Affliction:513190158468907008>
-⬥ Elder Overload &lt;:elderovlsalve:648976643687317532>
-⬥ Weapon poison +++ &lt;:weppoison:689525476158472288>
-⬥ Cinderbane Gloves &lt;:Cinderbanes:513190158355660812>
-⬥ Igneous Kal-Mej &lt;:igneouskalmej:902209626408382494>
-⬥ Ripper Demon &lt;:ripperpouch:703581275453128714> with scrolls &lt;:ripperscroll:703581275155464203>
-    • Smoke/Ice Nihil &lt;:smokenihil:854475442227642388> &lt;:icenihil:854475442164334592> (if using a <T90 mainhand)
+⬥ Adrenaline retention <img title="persistentrage" class="d-emoji" alt="persistentrage" src="https://cdn.discordapp.com/emojis/739965637056659567.png?v=1"> <img title="adrenurn" class="d-emoji" alt="adrenurn" src="https://cdn.discordapp.com/emojis/656426717413507074.png?v=1"> if you are not starting kills ASAP
+⬥ Death Ward Relic <img title="deathward" class="d-emoji" alt="deathward" src="https://cdn.discordapp.com/emojis/697808774068699286.png?v=1">
+⬥ Greater Concentrated Blast <img title="gconc" class="d-emoji" alt="gconc" src="https://cdn.discordapp.com/emojis/869285393223254107.png?v=1">
+⬥ Exsanguinate <img title="exsanguinate" class="d-emoji" alt="exsanguinate" src="https://cdn.discordapp.com/emojis/856635090745950258.png?v=1">
+⬥ Powder of Penance <img title="powderofpenance" class="d-emoji" alt="powderofpenance" src="https://cdn.discordapp.com/emojis/928221126360969226.png?v=1"> (Used before the hour)
+⬥ Soulsplit <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1">
+⬥ Torment <img title="torment" class="d-emoji" alt="torment" src="https://cdn.discordapp.com/emojis/583429936958930964.png?v=1"> / Affliction <img title="Affliction" class="d-emoji" alt="Affliction" src="https://cdn.discordapp.com/emojis/513190158468907008.png?v=1">
+⬥ Elder Overload <img title="elderovlsalve" class="d-emoji" alt="elderovlsalve" src="https://cdn.discordapp.com/emojis/648976643687317532.png?v=1">
+⬥ Weapon poison +++ <img title="weppoison" class="d-emoji" alt="weppoison" src="https://cdn.discordapp.com/emojis/689525476158472288.png?v=1">
+⬥ Cinderbane Gloves <img title="Cinderbanes" class="d-emoji" alt="Cinderbanes" src="https://cdn.discordapp.com/emojis/513190158355660812.png?v=1">
+⬥ Igneous Kal-Mej <img title="igneouskalmej" class="d-emoji" alt="igneouskalmej" src="https://cdn.discordapp.com/emojis/902209626408382494.png?v=1">
+⬥ Ripper Demon <img title="ripperpouch" class="d-emoji" alt="ripperpouch" src="https://cdn.discordapp.com/emojis/703581275453128714.png?v=1"> with scrolls <img title="ripperscroll" class="d-emoji" alt="ripperscroll" src="https://cdn.discordapp.com/emojis/703581275155464203.png?v=1">
+    • Smoke/Ice Nihil <img title="smokenihil" class="d-emoji" alt="smokenihil" src="https://cdn.discordapp.com/emojis/854475442227642388.png?v=1"> <img title="icenihil" class="d-emoji" alt="icenihil" src="https://cdn.discordapp.com/emojis/854475442164334592.png?v=1"> (if using a &lt;T90 mainhand)
 ⬥Auto-retaliate is on
-
 </div>
 
 </div>
@@ -632,7 +592,6 @@ The following are required or this method will not work:
 </div>
 
 <div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
-
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 

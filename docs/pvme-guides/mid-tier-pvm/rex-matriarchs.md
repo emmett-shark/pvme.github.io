@@ -747,32 +747,29 @@ This method will reliably allow you to get consistent Pthentraken kills without 
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Mandatory AFK Requirements</strong>
-
 </div>
 <div class="embed-description markup" >This setup should reliably allow you to afk Pthentraken.
 The following are required or this method will not work:
 
-
 ⬥ Ranged weapon(s) with less than 8 range
-    • &lt;:hexhunterbow:581180369911414794> &lt;:upgradedboneblowpipe:925794591830056961> &lt;:ascmh:513190158468775936> &lt;:bbc:626714879218155521>
-⬥ Greater Ricochet &lt;:grico:787904334812807238>
-⬥ Caroming 4 &lt;:caroming4:791281588792590336>
-⬥ Igneous Kal-Xil &lt;:igneouskalxil:902209626404171786> or Kal-Zuk &lt;:igneouskalzuk:902209626479685734>
-⬥ Scripture of Wen &lt;:wengodbook:883134307902816297>
-⬥ Ring of Vigour passive effect &lt;:vigour:615613235512737792> &lt;:warpedgem:968908526955167774>
-    • And/or Conservation of Energy &lt;:conservationofenergy:697808773711921195>
-⬥ Necklace of Salamancy &lt;:necklaceofsalamancy:970657245312467004>
+    • <img title="hexhunterbow" class="d-emoji" alt="hexhunterbow" src="https://cdn.discordapp.com/emojis/581180369911414794.png?v=1"> <img title="upgradedboneblowpipe" class="d-emoji" alt="upgradedboneblowpipe" src="https://cdn.discordapp.com/emojis/925794591830056961.png?v=1"> <img title="ascmh" class="d-emoji" alt="ascmh" src="https://cdn.discordapp.com/emojis/513190158468775936.png?v=1"> <img title="bbc" class="d-emoji" alt="bbc" src="https://cdn.discordapp.com/emojis/626714879218155521.png?v=1">
+⬥ Greater Ricochet <img title="grico" class="d-emoji" alt="grico" src="https://cdn.discordapp.com/emojis/787904334812807238.png?v=1">
+⬥ Caroming 4 <img title="caroming4" class="d-emoji" alt="caroming4" src="https://cdn.discordapp.com/emojis/791281588792590336.png?v=1">
+⬥ Igneous Kal-Xil <img title="igneouskalxil" class="d-emoji" alt="igneouskalxil" src="https://cdn.discordapp.com/emojis/902209626404171786.png?v=1"> or Kal-Zuk <img title="igneouskalzuk" class="d-emoji" alt="igneouskalzuk" src="https://cdn.discordapp.com/emojis/902209626479685734.png?v=1">
+⬥ Scripture of Wen <img title="wengodbook" class="d-emoji" alt="wengodbook" src="https://cdn.discordapp.com/emojis/883134307902816297.png?v=1">
+⬥ Ring of Vigour passive effect <img title="vigour" class="d-emoji" alt="vigour" src="https://cdn.discordapp.com/emojis/615613235512737792.png?v=1"> <img title="warpedgem" class="d-emoji" alt="warpedgem" src="https://cdn.discordapp.com/emojis/968908526955167774.png?v=1">
+    • And/or Conservation of Energy <img title="conservationofenergy" class="d-emoji" alt="conservationofenergy" src="https://cdn.discordapp.com/emojis/697808773711921195.png?v=1">
+⬥ Necklace of Salamancy <img title="necklaceofsalamancy" class="d-emoji" alt="necklaceofsalamancy" src="https://cdn.discordapp.com/emojis/970657245312467004.png?v=1">
 ⬥ T80+ armour
-    • With Crystal Shield 4 &lt;:crystalshield4:921410343606034443> and Absorbative 4 &lt;:absorbative4:890542428556230666>
-⬥ Soulsplit &lt;:soulsplit:615613924506599497>
-⬥ Anguish &lt;:anguish:583429936665198592> / Desolation &lt;:Desolation:513190159018098713>
-⬥ Elder Overload &lt;:elderovlsalve:648976643687317532>
-⬥ Weapon poison +++ &lt;:weppoison:689525476158472288>
-⬥ Cinderbane Gloves &lt;:Cinderbanes:513190158355660812>
-⬥ Blood Reaver &lt;:reaverpouch:839903693837959228> with 200+ scrolls
+    • With Crystal Shield 4 <img title="crystalshield4" class="d-emoji" alt="crystalshield4" src="https://cdn.discordapp.com/emojis/921410343606034443.png?v=1"> and Absorbative 4 <img title="absorbative4" class="d-emoji" alt="absorbative4" src="https://cdn.discordapp.com/emojis/890542428556230666.png?v=1">
+⬥ Soulsplit <img title="soulsplit" class="d-emoji" alt="soulsplit" src="https://cdn.discordapp.com/emojis/615613924506599497.png?v=1">
+⬥ Anguish <img title="anguish" class="d-emoji" alt="anguish" src="https://cdn.discordapp.com/emojis/583429936665198592.png?v=1"> / Desolation <img title="Desolation" class="d-emoji" alt="Desolation" src="https://cdn.discordapp.com/emojis/513190159018098713.png?v=1">
+⬥ Elder Overload <img title="elderovlsalve" class="d-emoji" alt="elderovlsalve" src="https://cdn.discordapp.com/emojis/648976643687317532.png?v=1">
+⬥ Weapon poison +++ <img title="weppoison" class="d-emoji" alt="weppoison" src="https://cdn.discordapp.com/emojis/689525476158472288.png?v=1">
+⬥ Cinderbane Gloves <img title="Cinderbanes" class="d-emoji" alt="Cinderbanes" src="https://cdn.discordapp.com/emojis/513190158355660812.png?v=1">
+⬥ Blood Reaver <img title="reaverpouch" class="d-emoji" alt="reaverpouch" src="https://cdn.discordapp.com/emojis/839903693837959228.png?v=1"> with 200+ scrolls
     • Set to autofire at 16
 ⬥Auto-retaliate is on
-
 </div>
 
 </div>
@@ -780,7 +777,6 @@ The following are required or this method will not work:
 </div>
 
 <div class="embed-footer"><img src="None" class="embed-footer-icon" role="presentation" width="20" height="20"><span class="embed-footer">Cutting corners will result in failure
-
 </span></div>
 </div></div></div></div></div></div></div></div></div></div></div></div>   
 

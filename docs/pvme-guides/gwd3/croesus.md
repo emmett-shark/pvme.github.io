@@ -763,22 +763,16 @@ The Hunter initiates the encounter. Players will first gather all the resources 
 <div class="embed-content-inner">
 
 <div class="embed-title" >Video Examples
-
 </div>
 <div class="embed-description markup" >The example kills below consists of a 1mid 4man fishing, and 2mid 4mans (3 kills per video) for all roles. 1mids give slightly more loot and kills per hour if done properly, but are more difficult and thus the consistency of 2mids is generally preferred.
-
 </div>
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>1 Mid</strong>
-
-</div><div class="embed-field-value markup" >⬥ <a href="https://youtu.be/ljB-8qgnIzI">4:09 4-Man, 1 mid, no rot, Fishing (Courtesy of &lt;@108682527304060928>)</a>
-
+</div><div class="embed-field-value markup" >⬥ <a href="https://youtu.be/ljB-8qgnIzI">4:09 4-Man, 1 mid, no rot, Fishing (Courtesy of &lt;@108682527304060928&gt;)</a>
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>2 Mid</strong>
-
 </div><div class="embed-field-value markup" >⬥ <a href="https://youtu.be/jeRhwaZU9gc">4-Man, 2 mid fishing</a>
 ⬥ <a href="https://youtu.be/HIn_UZz69Mc">4-Man, 2 mid mining</a>
 ⬥ <a href="https://youtu.be/l9IhB6GmjGU">4-Man, 2 mid woodcutting</a>
 ⬥ <a href="https://youtu.be/VXS7ZJFG_zY">4-Man, 2 mid hunter</a>
-
 </div></div></div>
 </div>
 

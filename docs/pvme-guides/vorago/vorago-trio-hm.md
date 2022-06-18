@@ -1308,78 +1308,58 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <div class="embed-content-inner">
 
 <div class="embed-title" >Maul guide for Hard Mode
-
 </div>
 <div class="embed-description markup" >The following go from Best to Worst timing.
-
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Ceiling Collapse</em>_</strong>
-
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Ceiling Collapse</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 GB 5
 • <strong>P11</strong>: TS 3 OFF 3 Vit 3
 
-
 <ol>
 <li>Maul GB release</li>
 <li>Maul TS</li>
 <li>Maul Reflect</li>
-</ol>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Scopulus</em>_</strong>
-
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Scopulus</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 TS 3
 • <strong>P11</strong>: PB 5 OFF 3 Vit 3
 
-
 <ol>
 <li>Maul TS</li>
 <li>Maul PB release</li>
 <li>Maul Reflect</li>
-</ol>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Vitalis</em>_</strong>
-
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Vitalis</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: Vit 3 OFF 3 PB 5
 • <strong>P11</strong>: Vit 3 OFF 3 Bleeds 3
-
 
 <ol>
 <li>Maul Reflect</li>
 <li>Maul PB release</li>
 <li>Maul Vit release</li>
-</ol>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Green Bomb</em>_</strong>
-
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Green Bomb</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: GB 5 OFF 3 Vit 3
 • <strong>P11</strong>: GB 5 OFF 3 TS 3
-
 
 <ol>
 <li>Maul GB release</li>
 <li>Maul Vit release</li>
 <li>Maul Reflect</li>
-</ol>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_Team Split</em>_</strong>
-
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Team Split</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 TS 3
 • <strong>P11</strong>: TS 3 OFF 3 PB 5
-
 
 <ol>
 <li>Maul Reflect</li>
 <li>Maul 1st TS</li>
 <li>Maul 2nd TS</li>
-</ol>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><em>_The End</em>_</strong>
-
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>The End</strong></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 Bleeds 3
 • <strong>P11</strong>: PB 5 OFF 3 Vit 3
-
 
 <ol>
 <li>Maul After bleeds</li>
 <li>Maul PB release</li>
 <li>Maul Reflect</li>
-</ol>
-</div></div></div>
+</ol></div></div></div>
 </div>
 
 </div>

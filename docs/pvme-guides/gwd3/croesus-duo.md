@@ -133,15 +133,11 @@ Your optimal goal is to deplete both your nodes before going to the energy fungu
 <div class="embed-content-inner">
 
 <div class="embed-title" >Video Examples
-
 </div>
 <div class="embed-description markup" >The example kills below consist of back to back duo hunter &amp; woodcutting kills.
-
 </div>
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Hunter &amp; Woodcutting</strong>
-
 </div><div class="embed-field-value markup" >⬥ <a href="https://www.youtube.com/watch?v=8Vi6fEaXVFk">4:56 &amp; 4:51 duo Hunter &amp; Woodcutting</a>
-
 </div></div></div>
 </div>
 

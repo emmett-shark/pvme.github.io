@@ -105,40 +105,28 @@ Each Gregorovic kill is worth <img title="coins" class="d-emoji" alt="coins" src
 <div class="embed-content-inner">
 
 <div class="embed-title" ><strong>Mechanics</strong>
-
 </div>
 
 <div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Attack Rotation</strong>
-
 </div><div class="embed-field-value markup" >⬥ 3 Autos → Bouncing Blade → 3 Autos → Summon Spirits → 3 Autos → Shadow Spots → Repeat
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Bouncing Blade</strong>
-
 </div><div class="embed-field-value markup" >⬥ The first special attack occurs after 3 autos; he will throw a blade that bounces between you, other players if available, and then himself (it will not damage him), it will hit players 3 times, whether thats one player 3 times or 3 players 1 time each. <a href="https://imgur.com/aFZzLQF.mp4">Example</a>
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Summon Spirits</strong>
-
 </div><div class="embed-field-value markup" >⬥ He will summon a spirit dependent on the area of the room that he's standing in, that will walk towards him. If it reaches melee distance of him it will be consumed granting Greg a buff based on the spirit summoned.  The ghosts that are summoned are the spirts of Mania, Rage, and Delirium. <a href="https://imgur.com/BVvu3F8.mp4">Example</a>
     • <strong>Spirit of Mania</strong> - connecting causes his attack speed to increase.
     • <strong>Spirit of Rage</strong> - connecting with him causes his damage to increase.
     • <strong>Spirit of Delirium</strong> - connecting causes his poison damage to increase.
 
-
 <em>Note: Spirit of Delirium can be ignored if mitigating poison damage via incense sticks or venomblood. By standing in the northwest corner he will only spawn this spirit.</em>
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Shadow Spots</strong>
-
 </div><div class="embed-field-value markup" >⬥ Finally he will do a shadow spot attack similar to the twin furies, certain areas are marked with shadows that you must move out of to avoid a large mage hit, they come in small clusters with one being directly on the spot you are standing on and a few nearby. <a href="https://imgur.com/ZPw1hZR.mp4">Example</a>
 ​
-
 </div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Clones</strong>
-
 </div><div class="embed-field-value markup" >⬥ At 140k health he will summon 2 clones, and at 60k he will summon 3 clones, they have 3k health each and Greg may teleport to them at random. <a href="https://imgur.com/4ce8fSc.mp4">Example</a>
 ​
-
 </div></div></div>
 </div>
 
