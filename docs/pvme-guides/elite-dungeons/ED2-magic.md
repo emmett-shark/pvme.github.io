@@ -784,7 +784,7 @@ This will occur 7 times before the boss becomes vulnerable again and continues t
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Example Runs</strong>
+<div class="embed-title" ><u>Example Runs</u>
 </div>
 <div class="embed-description markup" >https://youtu.be/lsris6thu8g - 18:02 no food no bank run by #Linie
 

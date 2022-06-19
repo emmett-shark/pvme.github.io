@@ -372,17 +372,17 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Phase 1</strong>
+<div class="embed-title" ><u>Phase 1</u>
 </div>
 <div class="embed-description markup" >Damage Solak down to his HP cap while handling mechanics that interrupt damage. Killing the Core will start Phase 2
 </div>
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Start &amp; Pads</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Start &amp; Pads</u>
 </div><div class="embed-field-value markup" >⬥ Pre-place <img title="dommine" class="d-emoji" alt="dommine" src="https://cdn.discordapp.com/emojis/662249620579155968.png?v=1">, if available
 ⬥ Start fight, <strong>use damage-boosting ultimate</strong> <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1"> / <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> / <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1">
     • Use a few strong abilities within your ultimate, and then <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> / <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> to a pad
         - Alternatively, <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1"> (duo) or <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1"> + <img title="debil" class="d-emoji" alt="debil" src="https://cdn.discordapp.com/emojis/535541278264393729.png?v=1"> (3-6 people)
 ⬥ Return to Solak after pads, and continue doing damage until ~0:50
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Rootlings, Roots &amp; Bombs</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Rootlings, Roots &amp; Bombs</u>
 </div><div class="embed-field-value markup" >⬥ The team should split up and kill volatile rootlings
     • Place second set of <img title="dommine" class="d-emoji" alt="dommine" src="https://cdn.discordapp.com/emojis/662249620579155968.png?v=1"> if available
 ⬥ Handle personal roots at ~1:06
@@ -390,7 +390,7 @@
 ⬥ Continue doing damage until ~1:32 and ~1:49 Blight Bombs
     • Negate as required with <img title="disrupt" class="d-emoji" alt="disrupt" src="https://cdn.discordapp.com/emojis/535614336207552523.png?v=1"> / <img title="res" class="d-emoji" alt="res" src="https://cdn.discordapp.com/emojis/535541258844635148.png?v=1">
     • Keep doing damage between bombs
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Arms, Legs, &amp; Core</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Arms, Legs, &amp; Core</u>
 </div><div class="embed-field-value markup" >⬥ Kill arms, while keeping fairly high adrenaline
     • Magers and rangers <strong>should <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1"> / <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> at the end of arms</strong>
 ⬥ Kill the legs, while building adrenaline for core
@@ -429,16 +429,16 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Phase 2</strong>
+<div class="embed-title" ><u>Phase 2</u>
 </div>
 <div class="embed-description markup" >Kill all 4 Eruptions and the Anima Storm. Then, damage Solak until his corruption bar has been drained completely. Once it is completely drained, Phase 3 will start
 </div>
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Eruptions, Cleanse &amp; Storm</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Eruptions, Cleanse &amp; Storm</u>
 </div><div class="embed-field-value markup" >⬥ Kill a southern eruption and then cleanse
 ⬥ <img title="surge" class="d-emoji" alt="surge" src="https://cdn.discordapp.com/emojis/535533810004262912.png?v=1"> / <img title="bd" class="d-emoji" alt="bd" src="https://cdn.discordapp.com/emojis/535532854281764884.png?v=1"> back to the destroyed eruption, go up and damage the Anima Storm
 ⬥ After returning to the ground, repeat with other Eruptions until the Storm is dead
     • There is generally no need to cleanse a second time
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Blight Spores, Anima Rain &amp; Arm Climb</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Blight Spores, Anima Rain &amp; Arm Climb</u>
 </div><div class="embed-field-value markup" >⬥ Meet at the very north of the arena between the torches
     • <strong>Use damage-boosting ultimate</strong> immediately <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1"> / <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> / <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1">
 ⬥ Damage Solak while avoiding Blight Spores
@@ -480,11 +480,11 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Phase 3</strong>
+<div class="embed-title" ><u>Phase 3</u>
 </div>
 <div class="embed-description markup" >Damage Solak down to his HP cap then kill Erethdor. When Erethdor dies, Phase 4 will start
 </div>
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Charge Pads &amp; Erethdor</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Charge Pads &amp; Erethdor</u>
 </div><div class="embed-field-value markup" >⬥ <strong>Use damage-boosting ultimate</strong> immediately <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1"> / <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> / <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1">
 ⬥ Watch out for AoE Blight Bombs and stun when required throughout the phase
 ⬥ Charge first pad, and go up to the Realm
@@ -524,11 +524,11 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Phase 4</strong>
+<div class="embed-title" ><u>Phase 4</u>
 </div>
 <div class="embed-description markup" >Damage Solak down to 0 hp before the manifestations kill him in the Realm
 </div>
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Kill, or Be Killed</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Kill, or Be Killed</u>
 </div><div class="embed-field-value markup" >⬥ Wait at Solak until he becomes targetable, then build adrenaline if needed
     • Magers and Rangers <strong>should <img title="Sunshine" class="d-emoji" alt="Sunshine" src="https://cdn.discordapp.com/emojis/583430011948630016.png?v=1"> / <img title="deathsswift" class="d-emoji" alt="deathsswift" src="https://cdn.discordapp.com/emojis/535541258924326912.png?v=1"> immediately</strong> in order to build
     • Meleers <strong>should <img title="Berserk" class="d-emoji" alt="Berserk" src="https://cdn.discordapp.com/emojis/513190158468907012.png?v=1"> on the pull-back</strong>

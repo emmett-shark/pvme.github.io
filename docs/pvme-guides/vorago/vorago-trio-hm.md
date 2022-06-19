@@ -1311,7 +1311,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 </div>
 <div class="embed-description markup" >The following go from Best to Worst timing.
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Ceiling Collapse</strong></strong>
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>Ceiling Collapse</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 GB 5
 • <strong>P11</strong>: TS 3 OFF 3 Vit 3
 
@@ -1319,7 +1319,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <li>Maul GB release</li>
 <li>Maul TS</li>
 <li>Maul Reflect</li>
-</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Scopulus</strong></strong>
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>Scopulus</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 TS 3
 • <strong>P11</strong>: PB 5 OFF 3 Vit 3
 
@@ -1327,7 +1327,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <li>Maul TS</li>
 <li>Maul PB release</li>
 <li>Maul Reflect</li>
-</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Vitalis</strong></strong>
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>Vitalis</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: Vit 3 OFF 3 PB 5
 • <strong>P11</strong>: Vit 3 OFF 3 Bleeds 3
 
@@ -1335,7 +1335,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <li>Maul Reflect</li>
 <li>Maul PB release</li>
 <li>Maul Vit release</li>
-</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Green Bomb</strong></strong>
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>Green Bomb</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: GB 5 OFF 3 Vit 3
 • <strong>P11</strong>: GB 5 OFF 3 TS 3
 
@@ -1343,7 +1343,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <li>Maul GB release</li>
 <li>Maul Vit release</li>
 <li>Maul Reflect</li>
-</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>Team Split</strong></strong>
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>Team Split</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: TS 3 OFF 3 TS 3
 • <strong>P11</strong>: TS 3 OFF 3 PB 5
 
@@ -1351,7 +1351,7 @@ Powercreep goes brrrrrr. Essentially simply follow the Rago Hub spreadsheet abil
 <li>Maul Reflect</li>
 <li>Maul 1st TS</li>
 <li>Maul 2nd TS</li>
-</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><strong>The End</strong></strong>
+</ol></div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong><u>The End</u></strong>
 </div><div class="embed-field-value markup" >• <strong>P10</strong>: PB 5 OFF 3 Bleeds 3
 • <strong>P11</strong>: PB 5 OFF 3 Vit 3
 

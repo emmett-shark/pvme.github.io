@@ -129,35 +129,35 @@ Nex has 5 phases; Smoke, Shadow, Blood, Ice, and Zaros. Each phase has 2 special
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Special Attacks</strong>
+<div class="embed-title" ><u>Special Attacks</u>
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Smoke Phase</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Smoke Phase</u>
 </div><div class="embed-field-value markup" >⬥ Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat.
     • Don't stand in middle crossways. <a title="" href="https://imgur.com/BgsPoty.mp4" target="_blank" rel="noreferrer">Example</a>
     • Nex may drag you to MD of her at random times, nulling all damage. <a title="" href="https://imgur.com/0tauAFe.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Shadow Phase</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Shadow Phase</u>
 </div><div class="embed-field-value markup" >⬥ Shadow traps (if phased before virus) → Darkness → Shadow traps → 4 auto-attacks → Repeats from second shadow traps.
 ⬥ Move from Shadows and don’t stand MD.
     • A shadow trap is avoided. <a title="" href="https://imgur.com/FZJq76Y.mp4" target="_blank" rel="noreferrer">Example</a>
     • A player escapes the shadows engulfing them. <a title="" href="https://imgur.com/4cZwRUJ.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Blood Phase</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Blood Phase</u>
 </div><div class="embed-field-value markup" >⬥ Siphon summon → 3 auto-attacks → Blood sacrifice → 3 auto-attacks → Repeat.
 ⬥ Attacks during Siphon will heal Nex and sacrifice will heal Nex if not phased and in range.
     • Nex summoning her Blood Reavers. <a title="" href="https://imgur.com/480GewR.mp4" target="_blank" rel="noreferrer">Example</a>
     • Nex sacrifices a player. <a title="" href="https://imgur.com/qnjrQdC.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ Any bleeds used during this phase will heal Nex rather than damage her (<img title="frag" class="d-emoji" alt="frag" src="https://cdn.discordapp.com/emojis/535541273755385885.png?v=1"> <img title="corruptshot" class="d-emoji" alt="corruptshot" src="https://cdn.discordapp.com/emojis/535541306294796299.png?v=1"> <img title="deadshot" class="d-emoji" alt="deadshot" src="https://cdn.discordapp.com/emojis/535541307666595870.png?v=1">)
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Ice Phase</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Ice Phase</u>
 </div><div class="embed-field-value markup" >⬥ First special attack (based on phase start) → 3 auto-attacks → Second special attack (based on phase start) → 3 auto-attacks → Repeat.
 ⬥ If Blood phase ended with Sacrifice, Ice will start with Contain. <a title="" href="https://imgur.com/zFmdn67.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ If Blood phase ended with Siphon, Ice will start with Prison. <a title="" href="https://imgur.com/YGkCP6F.mp4" target="_blank" rel="noreferrer">Example</a>
     • Run from Contain and Freedom <img title="freedom" class="d-emoji" alt="freedom" src="https://cdn.discordapp.com/emojis/535541258240786434.png?v=1"> into eating up then <img title="vitality" class="d-emoji" alt="vitality" src="https://cdn.discordapp.com/emojis/654618235097972737.png?v=1">
     • Glacies' attacks can freeze players if they aren't using Protect/Deflect Magic; keeping the prayer active will result in all of her attacks missing regardless of the player's armour rating.
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Zaros Phase</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Zaros Phase</u>
 </div><div class="embed-field-value markup" >⬥ Upon the start of this phase, Nex activates Turmoil <img title="turmoil" class="d-emoji" alt="turmoil" src="https://cdn.discordapp.com/emojis/583429936606347280.png?v=1">and heals herself for 33,333 (1/6) of her health to boost it up to 73,333. <a title="" href="https://imgur.com/lPTF0V0.mp4" target="_blank" rel="noreferrer">Example</a>
 ⬥ Nex does not have any unique special attacks in this phase and uses only her melee and magic autoattacks
 ​

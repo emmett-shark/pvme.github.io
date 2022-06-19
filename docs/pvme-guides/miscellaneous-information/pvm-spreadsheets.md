@@ -19,11 +19,11 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Ability spreadsheets</strong>
+<div class="embed-title" ><u>Ability spreadsheets</u>
 </div>
 <div class="embed-description markup" >Helpful to fully understand RuneScape's abilities.
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Ability Calculations</strong>
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Ability Calculations</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/d/1mJ1wB-JhmWRnEpI4iRVnyRkP93Dk9lTxefr3bGd3Lnw/" target="_blank" rel="noreferrer">Onslaught Calculator</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1beHYkyPKV-tj8eHlbRDQTRX9GkdFBKhBr89B8fKyuXI/edit#gid=1063393167" target="_blank" rel="noreferrer">Greater Fury and 188s</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1OetEUz4xU5sg7pqmJBkkafmZIye8qoPOXprUPGhin14/edit?usp=sharing" target="_blank" rel="noreferrer">Ability Priorization</a>
@@ -60,18 +60,18 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Items, Rotations and Telos spreadsheets</strong>
+<div class="embed-title" ><u>Items, Rotations and Telos spreadsheets</u>
 </div>
 <div class="embed-description markup" >Useful to understand items, rotations and Telos intricancies.
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Item Numbers</strong>
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Item Numbers</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/d/15R4kYTGZs_CSC7V3cRF-B5Wm2NLio1s-IT0UEI9JvoM/edit?usp=sharing" target="_blank" rel="noreferrer">Comparison of Scriptures</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1oYtPZcjumdggxNqZYuWtrK-kCdtZo51oL7SExTEIHSw/edit?ouid=113319418153900565046&usp=sheets_home&ths=true" target="_blank" rel="noreferrer">Gear comparisons</a>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Rotation Builders</strong>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Rotation Builders</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://ryyhen.github.io/yarb/" target="_blank" rel="noreferrer">YARB</a>
 <a title="" href="http://rs-revolution.herokuapp.com/bar/" target="_blank" rel="noreferrer">Revolution Damage Calculators</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1RLoUtGDYaRWjQ4nA-sYnG1sfhjwe067o_V4-yIvOCeU/" target="_blank" rel="noreferrer">Sheety</a>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Telos</strong>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Telos</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/d/1RDqGgqRf_hjhhiIou41pHhXoLxvR913YO65zaMS0aRw/edit#gid=1826177397/" target="_blank" rel="noreferrer">Telos GP/Hr</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1uUn2LNqHWPm1molD9Vr9zvmsoiOH1O0wuZVEdj9hQdg/edit#gid=473405741/" target="_blank" rel="noreferrer">Telos Defence Regeneration</a>
 </div></div></div>
@@ -102,13 +102,13 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>PvM Accomplishments</strong>
+<div class="embed-title" ><u>PvM Accomplishments</u>
 </div>
 <div class="embed-description markup" >The community acknowledged means of determining records as well as other extraordinary PvM accomplishments.
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Speed Records</strong>
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Speed Records</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://www.pvm-records.com/" target="_blank" rel="noreferrer">PvM Records</a>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Other Accomplishments</strong>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Other Accomplishments</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSHpx1ihuBT0DesULKLrcR2TOOISjmoaW5gleprnpWGY49N1MRG2a3Y2P_Ddq2g2kmaxK0h8NgEiXE_/pubhtml#" target="_blank" rel="noreferrer">List of Duo Hard Mode Vorago</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/13yKl8ji6Jz3SzBLZgSYneyIzFviDPWeFeJXEY7IUBOk/edit#gid=0" target="_blank" rel="noreferrer">List of 4k Wardens</a>
 <a title="" href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQy3hEk8lRYi90cVnPExymwv9r7YDqZhvSHkza9SRaUuhQh2etEz4Uc8HnGWGLAGUUax-Hw_BR4hHFb/pubhtml" target="_blank" rel="noreferrer">List of Golden Reapers</a>
@@ -141,18 +141,18 @@
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Ironman, GP and Miscellaneous</strong>
+<div class="embed-title" ><u>Ironman, GP and Miscellaneous</u>
 </div>
 <div class="embed-description markup" >Intended for efficiency players.
 </div>
-<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Ironmen</strong>
+<div class="embed-fields"><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Ironmen</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/d/17_13tJf3gQoDTMj9hmSFTTM_TVG-4TySWF1pPXkTp1w/edit#gid=1777827976/" target="_blank" rel="noreferrer">Manlover´s Ironman Guide</a>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>Money related</strong>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>Money related</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/spreadsheets/d/1oJnswFsI7Fi1WuLlgCIW91YWjkFqFxXLz5VCjM0Ooz8/edit" target="_blank" rel="noreferrer">Cost of PvM</a>
 <a title="" href="https://runescape.wiki/w/Calculator:Herblore/Overload_variants/" target="_blank" rel="noreferrer">Overload Calculator</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1nkzaPeBedOZ_7gxwZQE0dX7i-XG8Pz7kkeBSynKiJ90/edit#gid=1627564895" target="_blank" rel="noreferrer">ED GP/hr</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1ArXJgoNxpIyHm5pRCdmT-srP_tJxhtRa6fHjT2JZ71A/edit#gid=24031961" target="_blank" rel="noreferrer">Boss GP/hr</a>
-</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><strong>NPCs, Slayer and Miscellaneous</strong>
+</div></div><div class="embed-field embed-field-inline" ><div class="embed-field-name" ><u>NPCs, Slayer and Miscellaneous</u>
 </div><div class="embed-field-value markup" ><a title="" href="https://docs.google.com/document/d/1yZmDhx-SJsrVo0iTNwgMN3YsuJ9CrHcySd3hptvz3Ds//" target="_blank" rel="noreferrer">PvM Abbreviations</a>
 <a title="" href="https://chisel.weirdgloop.org/bestiary/bestiary.json/" target="_blank" rel="noreferrer">Bestiary</a>
 <a title="" href="https://docs.google.com/spreadsheets/d/1hYNMQ_2QjhebZJsMCXEGDarEekOT1uZiPGx0i26ILps/edit#gid=535482960/" target="_blank" rel="noreferrer">Slayer Weight &amp; XP</a>

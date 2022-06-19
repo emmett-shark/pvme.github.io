@@ -75,32 +75,32 @@ Each Kalphite King kill is worth <img title="coins" class="d-emoji" alt="coins" 
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Mechanics</strong>
+<div class="embed-title" ><u>Mechanics</u>
 </div>
 
-<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><strong>Attack Rotation</strong>
+<div class="embed-fields"><div class="embed-field" ><div class="embed-field-name" ><u>Attack Rotation</u>
 </div><div class="embed-field-value markup" >⬥ Range Phase: 2 Autos → Stun → 2 Autos → Green → 2 Autos → Dig → Repeat
 ⬥ Melee Phase: 2 Autos → Push → 2 Autos → Charge → 2 Autos → Green → Repeat
 ⬥ Mage Phase: 4 Autos → Dig → 2 Autos → Charge → Repeat
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Greens (Beetlejuice)</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Greens (Beetlejuice)</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King stuns and binds the tank for 8 seconds, leaving them unable to do anything. He then deals a melee attack that can hit up to 32k damage. Greens only happen during range and melee phase. <a title="" href="https://i.imgur.com/XX7mCy9.mp4" target="_blank" rel="noreferrer">Example</a>
     • Range phase: the Green can be skipped via stunning KK at the right time.
     • Melee phase: you cannot skip the Green, instead you must utilise the Bladed Dive technique discussed later.
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Green Shield (random)</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Green Shield (random)</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King heals 75% of all damage dealt by players. <a title="" href="https://i.imgur.com/HzN16w4.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Red Shield (random)</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Red Shield (random)</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King heals 100% of all damage dealt to players. <a title="" href="https://i.imgur.com/9dSKMqO.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Digs</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Digs</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King becomes unattackable and digs under the ground for 10 seconds, it then appears under the player it last targeted, dealing up to 5k damage if not avoided. Digs only happen on range and magic phase. <a title="" href="https://i.imgur.com/pvgMnLU.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Charges</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Charges</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King becomes unattackable and charges towards a wall, players who fail to avoid the space between the charging boss and wall will be hit up to 4k damage. Charges only happen on melee and magic phase. <a title="" href="https://i.imgur.com/VXwsTOU.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
-</div></div><div class="embed-field" ><div class="embed-field-name" ><strong>Minions</strong>
+</div></div><div class="embed-field" ><div class="embed-field-name" ><u>Minions</u>
 </div><div class="embed-field-value markup" >⬥ Kalphite King spawns minions when it reaches 195k (1 wave) and 65k HP (2 waves). All players within a 3 tile radius of KK will be stunned for one second before the minions appear. Minions spawning will also cause KK to skip whatever attack he would have done next, including special attacks. <a title="" href="https://i.imgur.com/MU1A7WL.mp4" target="_blank" rel="noreferrer">Example</a>
 ​
 </div></div></div>

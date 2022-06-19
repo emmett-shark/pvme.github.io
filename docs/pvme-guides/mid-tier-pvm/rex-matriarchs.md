@@ -746,7 +746,7 @@ This method will reliably allow you to get consistent Pthentraken kills without 
 <div class="embed-content">
 <div class="embed-content-inner">
 
-<div class="embed-title" ><strong>Mandatory AFK Requirements</strong>
+<div class="embed-title" ><u>Mandatory AFK Requirements</u>
 </div>
 <div class="embed-description markup" >This setup should reliably allow you to afk Pthentraken.
 The following are required or this method will not work:
